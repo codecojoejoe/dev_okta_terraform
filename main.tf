@@ -12,10 +12,7 @@ terraform {
     }
   }
 }
+
 provider "tfe" {
   token = var.api_token
 }
-
-resource "okta_group" "example_group" {
-  name = "Example Group"
-  }
