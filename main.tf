@@ -5,7 +5,6 @@ terraform {
       version = "~> 4.3.0"
     }
   }
-}
   backend "remote" {
     organization = "included-dev"
 
