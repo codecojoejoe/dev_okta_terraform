@@ -12,7 +12,7 @@ provider "okta" {
   base_url    = "oktapreview.com"
   client_id   = "0oa9uf3rpuVVGrtBc1d7"
   scopes      = ["okta.groups.manage"]
-  private_key = "/Users/joe.willis/DevOktaTerraform/okta-tf-ihdev-privatekey"
+  api_token   = "OKTA_API_TOKEN"
 }
 
 resource "okta_group" "example_group" {
