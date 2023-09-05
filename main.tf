@@ -6,9 +6,6 @@ terraform {
     }
   }
 }
-workspaces {
-  name = "IncludedDevOkta"
-  }
 
 provider "tfe" {
   token = var.api_token
