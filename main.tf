@@ -5,6 +5,7 @@ terraform {
       version = "~> 4.3.0"
     }
   }
+}
   backend "remote" {
     organization = "included-dev"
 
@@ -12,8 +13,7 @@ terraform {
       name = "IncludedDevOkta"
     }
   }
-}
 
 provider "tfe" {
   token = var.api_token
-}
+  }
