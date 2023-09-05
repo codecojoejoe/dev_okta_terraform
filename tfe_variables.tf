@@ -38,7 +38,7 @@ resource "tfe_variable" "dev_okta_terraform_brand_name" {
   hcl          = false
   sensitive    = false
   key          = "brand_name"
-  value        = "Included Health Sandbox"
+  value        = "Included Dev Sandbox"
 
 }
 
