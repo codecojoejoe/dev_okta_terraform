@@ -6,9 +6,6 @@ terraform {
     }
   }
 }
-  backend "remote" {
-    organization = "included-dev"
-
     workspaces {
       name = "IncludedDevOkta"
     }
