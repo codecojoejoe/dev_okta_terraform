@@ -1,4 +1,4 @@
-# ------------------------------------------------------------------------------------------
+v# ------------------------------------------------------------------------------------------
 # Okta sandbox
 
 resource "tfe_variable" "okta_sandbox_terraform_org_name" {
@@ -64,13 +64,6 @@ resource "tfe_variable" "okta_sandbox_terraform_applications" {
   key          = "applications"
   value        = <<EOT
 {
-  okta_admin_console   = "0oa1crnwznsLJebiF1d7"
-  okta_browser_plugin  = "0oa1crnx3rsoAuqEK1d7"
-  okta_dashboard       = "0oa1crnx4cEyeKBEk1d7"
-  okta_workflows       = "0oa1dnglbn9R2w5D81d7"
-  okta_workflows_oauth = "0oa1dnglcqwDseZkQ1d7"
-  workday              = "0oa1dvshpnZBC8RBI1d7"
-  signon_test          = "0oa1vgt1vo9m2pmsR1d7"
 }
 EOT
 }
