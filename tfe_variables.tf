@@ -40,7 +40,6 @@ resource "tfe_variable" "dev_okta_terraform_brand_name" {
   key          = "brand_name"
   value        = "Included Health Sandbox"
 
-EOT
 }
 
 
