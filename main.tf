@@ -6,9 +6,8 @@ terraform {
     }
   }
 }
-    workspaces {
-      name = "IncludedDevOkta"
-    }
+workspaces {
+  name = "IncludedDevOkta"
   }
 
 provider "tfe" {
