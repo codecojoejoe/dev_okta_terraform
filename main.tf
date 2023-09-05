@@ -1,8 +1,11 @@
 terraform {
   required_providers {
-    tfe = {
-      version = "4.3.0"
+    okta = {
+      source = "okta/okta"
+      version = "~> 4.3.0"
     }
+  }
+}
   }
   backend "remote" {
     organization = "included-dev"
