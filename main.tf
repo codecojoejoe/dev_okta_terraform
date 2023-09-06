@@ -1,12 +1,21 @@
 terraform {
   required_providers {
     okta = {
-      source = "okta/okta"
-      version = "~> 4.3.0"
+      source  = "okta/okta"
+      version = "3.37.0"
+    }
+  }
+  backend "remote" {
+    organization = "included-dev"
+
+    workspaces {
+      name = "dev-terraform"
     }
   }
 }
 
-provider "tfe" {
-  token = var.api_token
-  }
+provider "okta" {
+  org_name  = var.org_name
+  base_url  = var.base_url
+  api_token = var.api_token
+}

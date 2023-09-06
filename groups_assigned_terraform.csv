@@ -1,0 +1,12 @@
+local_id,group_name,group_description
+mfa_google_auth_exception, MFA - Google Auth Exception, Users who do not have a device that supports Okta Verify
+okta_admin_custom_admin_service_accounts,IAM - Okta Admin - Custom Admins,DO NOT EDIT - Managed by Terraform - Grants Okta admin privileges
+okta_admin_super_admin,IAM - Okta Admin - Super Admin,DO NOT EDIT - Managed by Terraform - Grants Okta admin privileges
+okta_admin_super_admin_service_accounts,IAM - Okta Admin - Super Admin Service Accounts,DO NOT EDIT - Managed by Terraform - Grants Okta admin privileges
+okta_admin_it_support_lead,IAM - Okta Admin - IT Support Lead,DO NOT EDIT - Managed by Terraform - Grants Okta admin privileges
+okta_admin_it,IAM - Okta Admin - IT,DO NOT EDIT - Managed by Terraform - Grants Okta admin privileges
+okta_admin_prod_support,IAM - Okta Admin - Product Support,DO NOT EDIT - Managed by Terraform - Grants Okta admin privileges
+okta_admin_it_msp,IAM - Okta Admin - IT MSP,DO NOT EDIT - Managed by Terraform - Grants Okta admin privileges
+okta_admin_read_only,IAM - Okta Admin - Read Only,DO NOT EDIT - Managed by Terraform - Grants Okta admin privileges
+okta_admin_read_only_service_accounts,IAM - Okta Admin - Read Only Service Accounts,DO NOT EDIT - Managed by Terraform - Grants Okta admin privileges
+type_service_accounts,Inherited - Type - Service Accounts,DO NOT EDIT - Managed by Terraform - Non-human users

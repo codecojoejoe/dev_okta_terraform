@@ -1,0 +1,3 @@
+id,resource_set,custom_role
+ihsso.appadmin,ih_sso_applications,app_reader
+okta_admin_it,it_administered_groups,it_custom_administrators_group_management
