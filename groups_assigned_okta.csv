@@ -1,839 +1,841 @@
 local_id,group_name,group_description
-okta_onboarding_username_confirmed,IAM - Okta Onboarding - Username Confirmed,DANGER - DO NOT EDIT - Required for ALL inherited access!
-okta_onboarding_username_generation_in_progress,IAM - Okta Onboarding - Username Generation in Progress,DANGER - DO NOT EDIT - Part of onboarding automation!
-okta_device_trust_exempt_from_management,IAM - Device Trust - Exempt from Device Management,Grants exemption from device management for access to sensitive systems
-okta_device_trust_enforced,IAM - Device Trust - Enterprise,Enforces Enterprise Device Trust for users
-okta_jamf_yubikey_exception,IAM - Jamf Yubikey Exception,Grants exception to allow Yubikey OTP as a factor for Jamf connect
-okta_jamf_webauthn_exception,IAM - WebAuthn Exception,Grants exception to exempt an admin from requiring WebAuthn as a factor
-okta_sign_on_allow_mobile_access,IAM - Sign On - Allow Mobile Device Access,Grants exemptions from sign on policy restricting access from mobile devices
-abnormal_security,IAM - Abnormal Security,Provides access to Abnormal Security
-abnormal_security_portal_global_admin,IAM - Abnormal Security - Portal Global Admin,Provides access to Abnormal Security
-abnormal_security_portal_global_per_product_admin,IAM - Abnormal Security - Portal Global Per-Product Admin,Provides access to Abnormal Security
-abnormal_security_portal_tenant_admin,IAM - Abnormal Security - Portal Tenant Admin,Provides access to Abnormal Security
-abnormal_security_portal_tenant_per_product_admin,IAM - Abnormal Security - Portal Tenant Per-Product Admin,Provides access to Abnormal Security
-adobe_acrobat_pro,IAM - Adobe - Acrobat Pro,Provides access to Adobe Creative Cloud
-adobe_captivate,IAM - Adobe - Captivate,Provides access to Adobe Creative Cloud
-adobe_creative_cloud_all_apps_pro,IAM - Adobe - Creative Cloud All Apps - Pro Edition,Provides access to Adobe Creative Cloud
-adobe_sign,IAM - Adobe Sign,Provides access to Adobe Sign
-adobe_user,IAM - Adobe - User,Provides access to Adobe
-adobe_administrator,IAM - Adobe - Administrator,Provides access to Adobe
-aerohive,IAM - Aerohive,Provides access to Aerohive
-aetna_strategic_desktop,IAM - Aetna Strategic Desktop,Provides access to Aetna Strategic Desktop
-airtable_user,IAM - Airtable - User,Provides access to AirTable
-amazon_workspaces_oregon,IAM - Amazon WorkSpaces - Oregon,Provides access to Amazon WorkSpaces
-amazon_workspaces_virginia,IAM - Amazon WorkSpaces - Virginia,Provides access to Amazon WorkSpaces
-amazon_auto-stop_workspaces_virginia,IAM - Amazon Auto-Stop WorkSpaces - Virginia,Provides access to Amazon WorkSpaces
-amazon_auto-stop_workspaces_oregon,IAM - Amazon Auto-Stop WorkSpaces - Oregon,Provides access to Amazon WorkSpaces
-amazon_business_users,IAM - Amazon Business Users, Provides access to Amazon Business
-ambra_dicom_grid,IAM - Ambra (DICOM),Provides access to Ambra Dicom Grid
-ambra_dicom_grid_adminstrator,IAM - Ambra Dicom Grid - Adminstrator,Provides access to Ambra Dicom Grid
-ambra_dicom_grid_care_coordinator_opinion_coordinator,IAM - Ambra Dicom Grid - Care Coordinator/Opinion Coordinator,Provides access to Ambra Dicom Grid
-ambra_dicom_grid_connected_care_program,IAM - Ambra Dicom Grid - Connected Care Program,Provides access to Ambra Dicom Grid
-ambra_dicom_grid_record_specialist,IAM - Ambra Dicom Grid - Record Specialist,Provides access to Ambra Dicom Grid
-ambra_dicom_grid_record_specialist_2,IAM - Ambra Dicom Grid - Record Specialist 2,Provides access to Ambra Dicom Grid
-ambra_dicom_grid_record_specialist_manager,IAM - Ambra Dicom Grid - Record Specialist Manager,Provides access to Ambra Dicom Grid
-amplitude_admin,IAM - Amplitude - Admin,Provides access to Amplitude
-amplitude_manager,IAM - Amplitude - Manager,Provides access to Amplitude
-amplitude_member,IAM - Amplitude - Member,Provides access to Amplitude
-amplitude_viewer,IAM - Amplitude - Viewer,Provides access to Amplitude
-anaplan_accounting,IAM - Anaplan - Accounting,Provides access to Amplitude
-anaplan_cc_owner,IAM - Anaplan - CC Owner,Provides access to Amplitude
-anaplan_demand_planning,IAM - Anaplan - Demand Planning,Provides access to Amplitude
-anaplan_fpa_cor,IAM - Anaplan - FP&A COR,Provides access to Amplitude
-anaplan_fpa_opex,IAM - Anaplan - FP&A OpEx,Provides access to Amplitude
-anaplan_fpa_revenue,IAM - Anaplan - FP&A Revenue,Provides access to Amplitude
-anaplan_recruiting,IAM - Anaplan - Recruiting,Provides access to Amplitude
-anaplan_recruiting_ops,IAM - Anaplan - Recruiting Ops,Provides access to Amplitude
-anaplan_sales_ops,IAM - Anaplan - Sales Ops,Provides access to Amplitude
-anaplan_vp_fpa,IAM - Anaplan - VP FP&A,Provides access to Anaplan
-anomalo_uat_admin,IAM - Anomalo - UAT - Admin,Provides access to Anomalo - UAT
-anomalo_production_admin,IAM - Anomalo - Production - Admin,Provides access to Anomalo - Production
-anomalo_production_editor,IAM - Anomalo - Production - Editor,Provides access to Anomalo - Editor
-anomalo_production_viewer,IAM - Anomalo - Production - Viewer,Provides access to Anomalo - Viewer
-apiiro_admin,IAM - Apiiro - Admin,Provides access to Apiiro
-apiiro_security_engineer,IAM - Apiiro - Security Engineer,Provides access to Apiiro
-apple_developer_account_access_to_reports,IAM - Apple Developer Account - Access to Reports,Provides access to Apple Developer
-apple_developer_account_admin,IAM - Apple Developer Account - Admin,Provides access to Apple Developer
-apple_developer_account_app_manager,IAM - Apple Developer Account - App Manager,Provides access to Apple Developer
-apple_developer_account_customer_support,IAM - Apple Developer Account - Customer Support,Provides access to Apple Developer
-apple_developer_account_developer,IAM - Apple Developer Account - Developer,Provides access to Apple Developer
-apple_developer_account_finance,IAM - Apple Developer Account - Finance,Provides access to Apple Developer
-apple_developer_account_marketing,IAM - Apple Developer Account - Marketing,Provides access to Apple Developer
-articulate360_user,IAM - Articulate 360 - User,Provides access to Articulate 360
-aruba_admin,IAM - Aruba - Admin,Provides access to Aruba
-aruba_read_only,IAM - Aruba - Read Only,Provides access to Aruba
-asana,IAM - Asana,Provides access to Asana
-asana_admin,IAM - Asana - Admin,Provides access to Asana
-athenahealth_clienttrain,IAM - athenahealth - clienttrain,Provides access to AthenaHealth
-athenahealth_preview,IAM - athenahealth - preview,Provides access to Athenahealth - Preview
-athenahealth_production,IAM - athenahealth - production,Provides access to Athenahealth - Preview
-atlassian_confluence_user,IAM - Atlassian - Confluence - User,Provides access to Atlassian Confluence
-atlassian_jira_user,IAM - Atlassian - Jira - User,Provides access to Atlassian Jira
-atlassian_jsm_user,IAM - Atlassian - Jira Service Management - User,Provides access to Atlassian Jira Service Management
-auditboard_user,IAM - Auditboard - User,Provides access to Auditboard
-auth0_prod,IAM - Auth0-Prod,Provides access to Auth0
-availity,IAM - Availity,Provides access to Availity
-aws_analytics_developer,IAM - AWS - Analytics - Developer,Provides access to AWS - Analytics
-aws_analytics_dev,IAM - AWS - Analytics - Dev,Provides access to AWS - Analytics
-aws_analytics_infosec,IAM - AWS - Analytics - InfoSec,Provides access to AWS - Analytics
-aws_analytics_platform,IAM - AWS - Analytics - Platform,Provides access to AWS - Analytics
-aws_analytics_provisioner,IAM - AWS - Analytics - Provisioner,Provides access to AWS - Analytics
-aws_analytics_read_only,IAM - AWS - Analytics - Read-Only,Provides access to AWS - Analytics
-aws_analytics_security_auditor,IAM - AWS - Analytics - Security Auditor,Provides access to AWS - Analytics
-aws_analytics_dev_athena,IAM - AWS - Analytics-Dev - Athena,Provides access to AWS - Analytics-Dev
-aws_analytics_dev_bronze_claims_orchestrator_redshift,IAM - AWS - Analytics-Dev - Bronze Claims Orchestrator Redshift,Provides access to AWS - Analytics-Dev
-aws_analytics_dev_developer,IAM - AWS - Analytics-Dev - Developer,Provides access to AWS - Analytics-Dev
-aws_analytics-dev_dev,IAM - AWS - Analytics-Dev - Dev,Provides access to AWS - Analytics
-aws_analytics_dev_infosec,IAM - AWS - Analytics-Dev - InfoSec,Provides access to AWS - Analytics-Dev
-aws_analytics_dev_platform,IAM - AWS - Analytics-Dev - Platform,Provides access to AWS - Analytics-Dev
-aws_analytics_dev_provisioner,IAM - AWS - Analytics-Dev - Provisioner,Provides access to AWS - Analytics-Dev
-aws_analytics_dev_read_only,IAM - AWS - Analytics-Dev - Read-Only,Provides access to AWS - Analytics-Dev
-aws_analytics_dev_security_auditor,IAM - AWS - Analytics-Dev - Security Auditor,Provides access to AWS - Analytics-Dev
-aws_analytics_production_athena,IAM - AWS - Analytics-Production - Athena,Provides access to AWS - Analytics-Production
-aws_analytics_production_bronze_claims_orchestrator_redshift,IAM - AWS - Analytics-Production - Bronze Claims Orchestrator Redshift,Provides access to AWS - Analytics-Production
-aws_analytics_production_developer,IAM - AWS - Analytics-Production - Developer,Provides access to AWS - Analytics-Production
-aws_analytics-production_dev,IAM - AWS - Analytics-Production - Dev,Provides access to AWS - Analytics
-aws_analytics_production_infosec,IAM - AWS - Analytics-Production - InfoSec,Provides access to AWS - Analytics-Production
-aws_analytics_production_platform,IAM - AWS - Analytics-Production - Platform,Provides access to AWS - Analytics-Production
-aws_analytics_production_provisioner,IAM - AWS - Analytics-Production - Provisioner,Provides access to AWS - Analytics-Production
-aws_analytics_production_read_only,IAM - AWS - Analytics-Production - Read-Only,Provides access to AWS - Analytics-Production
-aws_analytics_production_security_auditor,IAM - AWS - Analytics-Production - Security Auditor,Provides access to AWS - Analytics-Production
-aws_analytics_production_solutions,IAM - AWS - Analytics-Production - Solutions,Provides access to AWS - Analytics-Production
-aws_analytics_uat_athena,IAM - AWS - Analytics-UAT - Athena,Provides access to AWS - Analytics-UAT
-aws_analytics_uat_bronze_claims_orchestrator_redshift,IAM - AWS - Analytics-UAT - Bronze Claims Orchestrator Redshift,Provides access to AWS - Analytics-UAT
-aws_analytics-uat_dev,IAM - AWS - Analytics-UAT - Dev,Provides access to AWS - Analytics
-aws_analytics_uat_developer,IAM - AWS - Analytics-UAT - Developer,Provides access to AWS - Analytics-UAT
-aws_analytics_uat_infosec,IAM - AWS - Analytics-UAT - InfoSec,Provides access to AWS - Analytics-UAT
-aws_analytics_uat_platform,IAM - AWS - Analytics-UAT - Platform,Provides access to AWS - Analytics-UAT
-aws_analytics_uat_provisioner,IAM - AWS - Analytics-UAT - Provisioner,Provides access to AWS - Analytics-UAT
-aws_analytics_uat_read_only,IAM - AWS - Analytics-UAT - Read-Only,Provides access to AWS - Analytics-UAT
-aws_analytics_uat_security_auditor,IAM - AWS - Analytics-UAT - Security Auditor,Provides access to AWS - Analytics-UAT
-aws_analytics_uat_solutions,IAM - AWS - Analytics-UAT - Solutions,Provides access to AWS - Analytics-UAT
-aws_ci_dev,IAM - AWS - CI - Dev,Provides access to AWS - CI
-aws_ci_developer,IAM - AWS - CI - Developer,Provides access to AWS - CI
-aws_ci_infosec,IAM - AWS - CI - InfoSec,Provides access to AWS - CI
-aws_ci_marley_service,IAM - AWS - CI - Marley Service,Provides access to AWS - CI
-aws_ci_platform,IAM - AWS - CI - Platform,Provides access to AWS - CI
-aws_ci_provisioner,IAM - AWS - CI - Provisioner,Provides access to AWS - CI
-aws_ci_read_only,IAM - AWS - CI - Read-Only,Provides access to AWS - CI
-aws_ci_security_auditor,IAM - AWS - CI - Security Auditor,Provides access to AWS - CI
-aws_development_dev,IAM - AWS - Development - Dev,Provides access to AWS - Development
-aws_development_developer,IAM - AWS - Development - Developer,Provides access to AWS - Development
-aws_development_infosec,IAM - AWS - Development - InfoSec,Provides access to AWS - Development
-aws_development_marley_service,IAM - AWS - Development - Marley Service,Provides access to AWS - Development
-aws_development_platform,IAM - AWS - Development - Platform,Provides access to AWS - Development
-aws_development_provisioner,IAM - AWS - Development - Provisioner,Provides access to AWS - Development
-aws_development_read_only,IAM - AWS - Development - Read-Only,Provides access to AWS - Development
-aws_development_security_auditor,IAM - AWS - Development - Security Auditor,Provides access to AWS - Development
-aws_development_solutions,IAM - AWS - Development - Solutions,Provides access to AWS - Development
-aws_hq_infosec,IAM - AWS - HQ - InfoSec,Provides access to AWS - HQ
-aws_hq_it_admin,IAM - AWS - HQ - IT Admin,Provides access to AWS - HQ
-aws_hq_it_msp_team,IAM - AWS - HQ - IT MSP Team,Provides access to AWS - HQ
-aws_hq_it_team,IAM - AWS - HQ - IT Team,Provides access to AWS - HQ
-aws_hq_platform,IAM - AWS - HQ - Platform,Provides access to AWS - HQ
-aws_hq_prod_support_team,IAM - AWS - HQ - Prod Support Team,Provides access to AWS - HQ
-aws_hq_provisioner,IAM - AWS - HQ - Provisioner,Provides access to AWS - HQ
-aws_hq_read_only,IAM - AWS - HQ - Read-Only,Provides access to AWS - HQ
-aws_hq_security_auditor,IAM - AWS - HQ - Security Auditor,Provides access to AWS - HQ
-aws_integration3_dev,IAM - AWS - Integration3 - Dev,Provides access to AWS - Integration3
-aws_integration3_developer,IAM - AWS - Integration3 - Developer,Provides access to AWS - Integration3
-aws_integration3_infosec,IAM - AWS - Integration3 - InfoSec,Provides access to AWS - Integration3
-aws_integration3_platform,IAM - AWS - Integration3 - Platform,Provides access to AWS - Integration3
-aws_integration3_provisioner,IAM - AWS - Integration3 - Provisioner,Provides access to AWS - Integration3
-aws_integration3_read_only,IAM - AWS - Integration3 - Read-Only,Provides access to AWS - Integration3
-aws_integration3_security_auditor,IAM - AWS - Integration3 - Security Auditor,Provides access to AWS - Integration3
-aws_integration3_offshore-platform,IAM - AWS - Integration3 - Offshore-Platform,Provides access to AWS - Integration3
-aws_match_engine_production_dev,IAM - AWS - Match-Engine-Production - Dev,Provides access to AWS - Match-Engine-Production
-aws_match_engine_production_developer,IAM - AWS - Match-Engine-Production - Developer,Provides access to AWS - Match-Engine-Production
-aws_match_engine_production_infosec,IAM - AWS - Match-Engine-Production - InfoSec,Provides access to AWS - Match-Engine-Production
-aws_match_engine_production_platform,IAM - AWS - Match-Engine-Production - Platform,Provides access to AWS - Match-Engine-Production
-aws_match_engine_production_provisioner,IAM - AWS - Match-Engine-Production - Provisioner,Provides access to AWS - Match-Engine-Production
-aws_match_engine_production_read_only,IAM - AWS - Match-Engine-Production - Read-Only,Provides access to AWS - Match-Engine-Production
-aws_match_engine_production_security_auditor,IAM - AWS - Match-Engine-Production - Security Auditor,Provides access to AWS - Match-Engine-Production
-aws_match_engine_uat_dev,IAM - AWS - Match-Engine-UAT - Dev,Provides access to AWS - Match-Engine-UAT
-aws_match_engine_uat_developer,IAM - AWS - Match-Engine-UAT - Developer,Provides access to AWS - Match-Engine-UAT
-aws_match_engine_uat_infosec,IAM - AWS - Match-Engine-UAT - InfoSec,Provides access to AWS - Match-Engine-UAT
-aws_match_engine_uat_platform,IAM - AWS - Match-Engine-UAT - Platform,Provides access to AWS - Match-Engine-UAT
-aws_match_engine_uat_provisioner,IAM - AWS - Match-Engine-UAT - Provisioner,Provides access to AWS - Match-Engine-UAT
-aws_match_engine_uat_read_only,IAM - AWS - Match-Engine-UAT - Read-Only,Provides access to AWS - Match-Engine-UAT
-aws_match_engine_uat_security_auditor,IAM - AWS - Match-Engine-UAT - Security Auditor,Provides access to AWS - Match-Engine-UAT
-aws_meta_role_data_science,IAM - AWS - Meta-Role - Data-Science,Grants access to relevant roles across all AWS accounts
-aws_meta_role_data_science_prod,IAM - AWS - Meta-Role - Data-Science-Prod,Grants access to relevant roles across all AWS accounts
-aws_meta_role_developer_default,IAM - AWS - Meta-Role - Developer-Default,Grants access to relevant roles across all AWS accounts
-aws_meta_role_developer_platform_cadet,IAM - AWS - Meta-Role - Developer-Platform-Cadet,Grants access to relevant roles across all AWS accounts
-aws_meta_role_developer_platform_infrastructure,IAM - AWS - Meta-Role - Developer-Platform-Infrastructure,Grants access to relevant roles across all AWS accounts
-aws_meta_role_developer_platform_infra,IAM - AWS - Meta-Role - Developer-Platform-Infra,Grants access to relevant roles across all AWS accounts
-aws_meta_role_developer_production,IAM - AWS - Meta-Role - Developer-Production,Grants access to relevant roles across all AWS accounts
-aws_meta_role_solutions,IAM - AWS - Meta-Role - Solutions,Grants access to relevant roles across all AWS accounts
-aws_operations_billing_read_only,IAM - AWS - Operations - Billing Read-Only,Provides access to AWS - Operations
-aws_operations_dev,IAM - AWS - Operations - Dev,Provides access to AWS - Operations
-aws_operations_developer,IAM - AWS - Operations - Developer,Provides access to AWS - Operations
-aws_operations_finance_billing,IAM - AWS - Operations - Finance Billing,Provides access to AWS - Operations
-aws_operations_infosec,IAM - AWS - Operations - InfoSec,Provides access to AWS - Operations
-aws_operations_platform,IAM - AWS - Operations - Platform,Provides access to AWS - Operations
-aws_operations_provisioner,IAM - AWS - Operations - Provisioner,Provides access to AWS - Operations
-aws_operations_read_only,IAM - AWS - Operations - Read-Only,Provides access to AWS - Operations
-aws_operations_security_auditor,IAM - AWS - Operations - Security Auditor,Provides access to AWS - Operations
-aws_operations_sso_admin,IAM - AWS - Operations - SSO Admin,Provides access to AWS - Operations
-aws_platform_dev_developer,IAM - AWS - Platform-Dev - Developer,Provides access to AWS - Platform-Dev
-aws_platform_dev_infosec,IAM - AWS - Platform-Dev - InfoSec,Provides access to AWS - Platform-Dev
-aws_platform_dev_platform,IAM - AWS - Platform-Dev - Platform,Provides access to AWS - Platform-Dev
-aws_platform_dev_provisioner,IAM - AWS - Platform-Dev - Provisioner,Provides access to AWS - Platform-Dev
-aws_platform_dev_read_only,IAM - AWS - Platform-Dev - Read-Only,Provides access to AWS - Platform-Dev
-aws_platform_dev_security_auditor,IAM - AWS - Platform-Dev - Security Auditor,Provides access to AWS - Platform-Dev
-aws_production_dev,IAM - AWS - Production - Dev,Provides access to AWS - Production
-aws_production_developer,IAM - AWS - Production - Developer,Provides access to AWS - Production
-aws_production_enduser_finance,IAM - AWS - Production - EndUser Finance,Provides access to AWS - Production
-aws_production_enduser_yellow,IAM - AWS - Production - EndUser Yellow,Provides access to AWS - Production
-aws_production_infosec,IAM - AWS - Production - InfoSec,Provides access to AWS - Production
-aws_production_platform,IAM - AWS - Production - Platform,Provides access to AWS - Production
-aws_production_provisioner,IAM - AWS - Production - Provisioner,Provides access to AWS - Production
-aws_production_read_five9_call_backups,IAM - AWS - Production - Read Five9 Call Backups,Provides access to AWS - Production
-aws_production_read_only,IAM - AWS - Production - Read-Only,Provides access to AWS - Production
-aws_production_security_auditor,IAM - AWS - Production - Security Auditor,Provides access to AWS - Production
-aws_production_solutions,IAM - AWS - Production - Solutions,Provides access to AWS - Production
-aws_production_enduser_red,IAM - AWS - Production - EndUser Red,Provides access to AWS - Production
-aws_uat_enduser_red,IAM - AWS - UAT - EndUser Red,Provides access to AWS - UAT
-aws_qa_developer,IAM - AWS - QA - Developer,Provides access to AWS - QA
-aws_qa_infosec,IAM - AWS - QA - InfoSec,Provides access to AWS - QA
-aws_qa_marley_service,IAM - AWS - QA - Marley Service,Provides access to AWS - QA
-aws_qa_platform,IAM - AWS - QA - Platform,Provides access to AWS - QA
-aws_qa_provisioner,IAM - AWS - QA - Provisioner,Provides access to AWS - QA
-aws_qa_read_only,IAM - AWS - QA - Read-Only,Provides access to AWS - QA
-aws_qa_security_auditor,IAM - AWS - QA - Security Auditor,Provides access to AWS - QA
-aws_test_infosec,IAM - AWS - Test - InfoSec,Provides access to AWS - Test
-aws_test_platform,IAM - AWS - Test - Platform,Provides access to AWS - Test
-aws_test_provisioner,IAM - AWS - Test - Provisioner,Provides access to AWS - Test
-aws_test_read_only,IAM - AWS - Test - Read-Only,Provides access to AWS - Test
-aws_test_security_auditor,IAM - AWS - Test - Security Auditor,Provides access to AWS - Test
-aws_trufflehog_platform,IAM - AWS - Trufflehog - Platform,Provides access to AWS - Trufflehog
-aws_trufflehog_infosec,IAM - AWS - Trufflehog - InfoSec,Provides access to AWS - Trufflehog
-aws_orca_platform,IAM - AWS - Orca - Platform,Provides access to AWS - Orca
-aws_orca_infosec,IAM - AWS - Orca - InfoSec,Provides access to AWS - Orca
-aws_third_party_infosec,IAM - AWS - Third-Party - InfoSec,Provides access to AWS - Third-Party
-aws_third_party_platform,IAM - AWS - Third-Party - Platform,Provides access to AWS - Third-Party
-aws_third_party_provisioner,IAM - AWS - Third-Party - Provisioner,Provides access to AWS - Third-Party
-aws_third_party_read_only,IAM - AWS - Third-Party - Read-Only,Provides access to AWS - Third-Party
-aws_third_party_security_auditor,IAM - AWS - Third-Party - Security Auditor,Provides access to AWS - Third-Party
-aws_uat_dev,IAM - AWS - UAT - Dev,Provides access to AWS - UAT
-aws_uat_developer,IAM - AWS - UAT - Developer,Provides access to AWS - UAT
-aws_uat_offshore-platform,IAM - AWS - UAT - Offshore-Platform,Provides access to AWS - UAT
-aws_uat_enduser_finance,IAM - AWS - UAT - EndUser Finance,Provides access to AWS - UAT
-aws_uat_enduser_yellow,IAM - AWS - UAT - EndUser Yellow,Provides access to AWS - UAT
-aws_uat_infosec,IAM - AWS - UAT - InfoSec,Provides access to AWS - UAT
-aws_uat_marley_service,IAM - AWS - UAT - Marley Service,Provides access to AWS - UAT
-aws_uat_platform,IAM - AWS - UAT - Platform,Provides access to AWS - UAT
-aws_uat_provisioner,IAM - AWS - UAT - Provisioner,Provides access to AWS - UAT
-aws_uat_read_only,IAM - AWS - UAT - Read-Only,Provides access to AWS - UAT
-aws_uat_security_auditor,IAM - AWS - UAT - Security Auditor,Provides access to AWS - UAT
-aws_uat_solutions,IAM - AWS - UAT - Solutions,Provides access to AWS - UAT
-aws_vendor_poc_infosec,IAM - AWS - Vendor-POC - InfoSec,Provides access to AWS - Vendor-POC
-aws_vendor_poc_platform,IAM - AWS - Vendor-POC - Platform,Provides access to AWS - Vendor-POC
-aws_vendor_poc_provisioner,IAM - AWS - Vendor-POC - Provisioner,Provides access to AWS - Vendor-POC
-aws_vendor_poc_read_only,IAM - AWS - Vendor-POC - Read-Only,Provides access to AWS - Vendor-POC
-aws_vendor_poc_security_auditor,IAM - AWS - Vendor-POC - Security Auditor,Provides access to AWS - Vendor-POC
-aws_integration3_cost-modeler,IAM - AWS - Integration3 - Cost Modeler,Provides access to AWS - Integration3
-aws_uat_cost-modeler,IAM - AWS - UAT - Cost Modeler,Provides access to AWS - UAT
-aws_production_cost-modeler,IAM - AWS - Production - Cost Modeler,Provides access to AWS - Production
-aws_operations_cost-modeler,IAM - AWS - Operations - Cost Modeler,Provides access to AWS - Operations
-basecamp,IAM - BaseCamp,Provides access to BaseCamp
-box_admin,IAM - Box - Admin,Provides access to Box
-box_coadmin,IAM - Box - Coadmin,Provides access to Box
-box_user,IAM - Box - User,Provides access to Box
-brivo_admin,IAM - Brivo Admin,Provides access to Brivo Admin
-bugcrowd_admin,IAM - bugcrowd - Admin,Provides access to bugcrowd
-bugcrowd_analyst,IAM - bugcrowd - Analyst,Provides access to bugcrowd
-bugcrowd_owner,IAM - bugcrowd - Owner,Provides access to bugcrowd
-bugcrowd_viewer,IAM - bugcrowd - Viewer,Provides access to bugcrowd
-calendly,IAM - Calendly,Provides access to Calendly
-calendly_admin,IAM - Calendly - Admin,Provides access to Calendly
-carbon_black,IAM - Carbon Black,Provides access to Carbon Black
-carbon_black_admin_legacy,IAM - Carbon Black - Admin - Legacy,Provides access to Carbon Black
-carbon_black_limited_admin,IAM - Carbon Black - Limited Admin,Provides access to Carbon Black
-carbon_black_live_response_admin_legacy,IAM - Carbon Black - Live Response Admin - Legacy,Provides access to Carbon Black
-carbon_black_super_admin,IAM - Carbon Black - Super Admin,Provides access to Carbon Black
-carbon_black_system_admin,IAM - Carbon Black - System Admin,Provides access to Carbon Black
-cleanweb_design_administrator,IAM - CleanWeb Design - Administrator,Provides access to CleanWeb Design
-cleanweb_design_author,IAM - CleanWeb Design - Author,Provides access to CleanWeb Design
-cleanweb_design_contributor,IAM - CleanWeb Design - Contributor,Provides access to CleanWeb Design
-cleanweb_design_editor,IAM - CleanWeb Design - Editor,Provides access to CleanWeb Design
-cleanweb_design_seo_editor,IAM - CleanWeb Design - SEO Editor,Provides access to CleanWeb Design
-cleanweb_design_seo_manager,IAM - CleanWeb Design - SEO Manager,Provides access to CleanWeb Design
-cleanweb_design_subscriber,IAM - CleanWeb Design - Subscriber,Provides access to CleanWeb Design
-cleartriage,IAM - ClearTriage,Provides access to ClearTriage
-clientsuccess,IAM - ClientSuccess,Provides access to ClientSuccess
-clientsuccess_admin,IAM - ClientSuccess - Admin,Provides access to ClientSuccess
-clientsuccess_executive,IAM - ClientSuccess - Executive,Provides access to ClientSuccess
-clientsuccess_manager,IAM - ClientSuccess - Manager,Provides access to ClientSuccess
-code_climate,IAM - Code Climate,Provides access to Code Climate
-concur_users,IAM - Concur Users,Provides access to SAP Concur
-concord_fax,IAM - Concord Fax,Provides access to Concord Fax
-contentful_admin,IAM - Contentful - Admin,Provides access to Contentful
-contentful_developer,IAM - Contentful - Developer,Provides access to Contentful
-contentful_member,IAM - Contentful - Member,Provides access to Contentful
-contentful_owner,IAM - Contentful - Owner,Provides access to Contentful
-cookiepro_assessments_manager,IAM - CookiePro - Assessments Manager,Provides access to CookiePro
-cookiepro_audit_manager,IAM - CookiePro - Audit Manager,Provides access to CookiePro
-cookiepro_auditor,IAM - CookiePro - Auditor,Provides access to CookiePro
-cookiepro_awareness_training_learner,IAM - CookiePro - Awareness Training Learner,Provides access to CookiePro
-cookiepro_awareness_training_manager,IAM - CookiePro - Awareness Training Manager,Provides access to CookiePro
-cookiepro_consent_manager,IAM - CookiePro - Consent Manager,Provides access to CookiePro
-cookiepro_cookie_manager,IAM - CookiePro - Cookie Manager,Provides access to CookiePro
-cookiepro_data_mapping_manager,IAM - CookiePro - Data Mapping Manager,Provides access to CookiePro
-cookiepro_data_subject_requests_manager,IAM - CookiePro - Data Subject Requests Manager,Provides access to CookiePro
-cookiepro_enterprise_policy_manager,IAM - CookiePro - Enterprise Policy Manager,Provides access to CookiePro
-cookiepro_incidents_manager,IAM - CookiePro - Incidents Manager,Provides access to CookiePro
-cookiepro_invited,IAM - CookiePro - Invited,Provides access to CookiePro
-cookiepro_it_risk_manager,IAM - CookiePro - IT Risk Manager,Provides access to CookiePro
-cookiepro_maturity_planning_manager,IAM - CookiePro - Maturity & Planning Manager,Provides access to CookiePro
-cookiepro_onetrust_agent,IAM - CookiePro - OneTrust Agent,Provides access to CookiePro
-cookiepro_policy_attestation_respondent,IAM - CookiePro - Policy Attestation Respondent,Provides access to CookiePro
-cookiepro_privacy_notice_author,IAM - CookiePro - Privacy Notice Author,Provides access to CookiePro
-cookiepro_privacy_notice_manager,IAM - CookiePro - Privacy Notice Manager,Provides access to CookiePro
-cookiepro_privacy_notice_viewer,IAM - CookiePro - Privacy Notice Viewer,Provides access to CookiePro
-cookiepro_privacy_officer,IAM - CookiePro - Privacy Officer,Provides access to CookiePro
-cookiepro_privacy_template_author,IAM - CookiePro - Privacy Template Author,Provides access to CookiePro
-cookiepro_program_benchmarking_manager,IAM - CookiePro - Program Benchmarking Manager,Provides access to CookiePro
-cookiepro_project_owner,IAM - CookiePro - Project Owner,Provides access to CookiePro
-cookiepro_project_respondent,IAM - CookiePro - Project Respondent,Provides access to CookiePro
-cookiepro_project_viewer,IAM - CookiePro - Project Viewer,Provides access to CookiePro
-cookiepro_site_admin,IAM - CookiePro - Site Admin,Provides access to CookiePro
-cookiepro_vendor_manager,IAM - CookiePro - Vendor Manager,Provides access to CookiePro
-cookiepro_whistleblower_case_assignee,IAM - CookiePro - Whistleblower Case Assignee,Provides access to CookiePro
-cookiepro_whistleblower_manager,IAM - CookiePro - Whistleblower Manager,Provides access to CookiePro
-cvs_caremark_portal,IAM - CVS/Caremark Portal,Provides access to CVS/Caremark Portal
-dispatch_health_admin,IAM - Dispatch Health - Admin,Provides admin access to Dispatch Health
-dispatch_health_user,IAM - Dispatch Health - User,Provides user access to Dispatch Health
-docker,IAM - Docker,Provides access to Docker
-dscout_account_owner,IAM - dscout - Account Owner,Provides access to dscout
-dscout_member,IAM - dscout - Member,Provides access to dscout
-dscout_viewer,IAM - dscout - Viewer,Provides access to dscout
-ehealth,IAM - eHealth,Provides access to eHealth
-elevate_security,IAM - Elevate Security,Provides access to Elevate Security
-employee_handbook,IAM - Employee Handbook,Provides access to Employee Handbook
-expressscripts,IAM - ExpressScripts,Provides access to ExpressScripts
-fedex,IAM - FedEx,Provides access to FedEx
-fedex_admin,IAM - FedEx - Admin,Provides access to FedEx
-fedex_reporting,IAM - FedEx Reporting,Provides access to FedEx
-figma,IAM - Figma,Provides access to Figma
-figma_editor,IAM - Figma - Editor,Provides access to Figma
-figma_viewer_restricted,IAM - Figma - Viewer - Restricted,Provides access to Figma
-figjam_editor,IAM - FigJam - Editor,Provides access to FigJam
-figjam_viewer_restricted,IAM - FigJam - Viewer - Restricted,Provides access to FigJam
-figma_figjam_editor,IAM - Figma and FigJam - Editor,Provides access to Figma and FigJam
-five9,IAM - Five9,Provides access to Five9
-five9_reporting,IAM - Five9 - Reporting,Provides access to Five10
-five9_plus_adapter_for_salesforce,IAM - Five9 Plus Adapter for Salesforce,Provides access to Five11
-five9_swa,IAM - Five9 SWA,Provides access to Five12
-fletch,IAM - Fletch,Provides access to Fletch
-fletch_admin,IAM - Fletch - Admin,Provides access to Fletch
-floyd_db,IAM - Floyd DB,Provides access to Floyd DB
-gcp_big_query_frankie,IAM - GCP - Big Query - Frankie,Provides access to Google Cloud Platform - Big Query
-gcp_big_query_national_claims_warehouse,IAM - GCP - Big Query - National Claims Warehouse,Provides access to Google Cloud Platform - Big Query
-gcp_big_query_other,IAM - GCP - Big Query - Other,Provides access to Google Cloud Platform - Big Query
-github_member,IAM - Github - Member,Provides access to Github
-github_owner,IAM - Github - Owner,Provides access to Github
-github_it_infra_member,IAM - Github - IT Infra - Member,Provides access to Github - IT Infra
-github_it_infra_owner,IAM - Github - IT Infra - Owner,Provides access to Github - IT Infra
-google_ads,IAM - Google Ads,Provides access to Google Ads
-google_ads_admin,IAM - Google Ads - Admin,Provides access to Google Ads
-google_ads_billing,IAM - Google Ads - Billing,Provides access to Google Ads
-google_ads_email_only,IAM - Google Ads - Email Only,Provides access to Google Ads
-google_ads_read_only,IAM - Google Ads - Read Only,Provides access to Google Ads
-google_analytics_collaborate,IAM - Google Analytics - Collaborate,Provides access to Google Analytics
-google_analytics_edit,IAM - Google Analytics - Edit,Provides access to Google Analytics
-google_analytics_manage_users,IAM - Google Analytics - Manage Users,Provides access to Google Analytics
-google_analytics_read_analyze,IAM - Google Analytics - Read & Analyze,Provides access to Google Analytics
-google_analytics_read_analyze_gr_site_only,IAM - Google Analytics - Read & Analyze (GR Site Only),Provides access to Google Analytics
-google_drive_athena_emr_archive_viewer,IAM - Google Drive - Viewer Role,Provides access to the Athena EMR Archive Google Shared Drive
-google_drive_athena_emr_archive_contributor,IAM - Google Drive - Contributor Role,Provides access to the Athena EMR Archive Google Shared Drive
-google_drive_athena_emr_archive_content_manager,IAM - Google Drive - Content Manager Role,Provides access to the Athena EMR Archive Google Shared Drive
-google_playstore_console,IAM - Google PlayStore Console,Provides access to Google PlayStore Console
-google_tag_manager_approve,IAM - Google Tag Manager - Approve,Provides access to Google Tag Manager
-google_tag_manager_edit,IAM - Google Tag Manager - Edit,Provides access to Google Tag Manager
-google_tag_manager_publish,IAM - Google Tag Manager - Publish,Provides access to Google Tag Manager
-google_tag_manager_read,IAM - Google Tag Manager - Read,Provides access to Google Tag Manager
-google_workspace,IAM - Google Workspace,Provides access to Google Workspace
-google_workspace_it_admin,IAM - Google Workspace - IT Admin,Provides access to Google Workspace
-google_workspace_it_msp_admin,IAM - Google Workspace - IT MSP Admin,Provides access to Google Workspace
-google_workspace_legal_team_admin,IAM - Google Workspace - Legal Team Admin,Provides access to Google Workspace
-google_workspace_meet_hardware_admin,IAM - Google Workspace - Meet Hardware Admin,Provides access to Google Workspace
-google_workspace_product_support_admin,IAM - Google Workspace - Product Support Admin,Provides access to Google Workspace
-google_workspace_security_team_admin,IAM - Google Workspace - Security Team Admin,Provides access to Google Workspace
-google_workspace_super_admin,IAM - Google Workspace - Super Admin,Provides access to Google Workspace
-google_workspace_vault_admin,IAM - Google Workspace - Vault Admin,Provides access to Google Workspace
-grafana,IAM - Grafana,Provides access to Grafana
-grand_rounds,IAM - Grand Rounds,Provides access to Grand Rounds Production
-grand_rounds_hub,IAM - Grand Rounds Hub,Provides access to Grand Rounds Hub
-helpjuice_knowledge_enablement,IAM - Helpjuice - Knowledge Enablement Team,Provides access to Helpjuice
-helpjuice_super_admin,IAM - Helpjuice - Super Admin,Provides access to Helpjuice
-helpjuice_viewer,IAM - Helpjuice - Viewer,Provides access to Helpjuice
-instabug_admin,IAM - Instabug - Admin,Provides access to Instabug
-instabug_member,IAM - Instabug - Member,Provides access to Instabug
-instabug_owner,IAM - Instabug - Owner,Provides access to Instabug
-instabug_viewer,IAM - Instabug - Viewer,Provides access to Instabug
-instapage_editor,IAM - Instapage - Editor,Provides access to Instapage
-instapage_manager,IAM - Instapage - Manager,Provides access to Instapage
-instapage_viewer,IAM - Instapage - Viewer,Provides access to Instapage
-interseller_user,IAM - Interseller - User,Provides access to Interseller
-jamf_connect_fixtures,IAM - Jamf Connect Fixtures,Provides access to Jamf Connect Fixtures
-jamf_connect_it_admin,IAM - Jamf Connect IT Admin,Provides access to Jamf Connect IT Admin
-jamf_connect_records_room,IAM - Jamf Connect Records Room,Provides access to Jamf Connect Records Room
-jamf_connect_standard,IAM - Jamf Connect Standard,Provides access to Jamf Connect Standard
-jamf_pro_admin,IAM - Jamf Pro Admin,Provides access to Jamf Pro Admin
-jenkins_admin,IAM - Jenkins Admin,Provides access to Jenkins
-jenkins_developer,IAM - Jenkins Developer,Provides access to Jenkins
-jenkins_release,IAM - Jenkins Release,Provides access to Jenkins
-jetbrains_software_all_products,IAM - JetBrains Software - All Products,Provides access to JetBrains Software
-jetbrains_software_datagrip,IAM - JetBrains Software - DataGrip,Provides access to JetBrains Software
-jetbrains_software_goland,IAM - JetBrains Software - GoLand,Provides access to JetBrains Software
-jetbrains_software_intellij_idea_ultimate,IAM - JetBrains Software - IntelliJ IDEA Ultimate,Provides access to JetBrains Software
-jetbrains_software_pycharm,IAM - JetBrains Software - PyCharm,Provides access to JetBrains Software
-jetbrains_software_rubymine,IAM - JetBrains Software - RubyMine,Provides access to JetBrains Software
-jetbrains_software_webstorm,IAM - JetBrains Software - WebStorm,Provides access to JetBrains Software
-jira,IAM - Jira,Provides access to Jira
-jira_service_desk,IAM - Jira Service Desk,Provides access to Jira Service Desk
-keeper_admin_role_compliance,IAM - Keeper - Admin Role - Compliance,Provides access to Keeper
-keeper_admin_role_it_support,IAM - Keeper - Admin Role - IT Support,Provides access to Keeper
-keeper_admin_role_security_engineering,IAM - Keeper - Admin Role - Security Engineering,Provides access to Keeper
-keeper_super_admin_role,IAM - Keeper - Super Admin Role,Provides access to Keeper
-keeper_folder_copy_services,IAM - Keeper - Folder - Copy Services,Provides access to Keeper
-keeper_folder_engineering_general,IAM - Keeper - Folder - Engineering - General,Provides access to Keeper
-keeper_folder_engineering_general_read,IAM - Keeper - Folder - Engineering - General - Read Only,Provides access to Keeper
-keeper_folder_image_services,IAM - Keeper - Folder - Image Services,Provides access to Keeper
-keeper_folder_it_infrastructure_engineering,IAM - Keeper - Folder - IT Infrastructure Engineering,Provides access to Keeper
-keeper_folder_it_support,IAM - Keeper - Folder - IT Support,Provides access to Keeper
-keeper_folder_it_systems_engineering,IAM - Keeper - Folder - IT Systems Engineering,Provides access to Keeper
-keeper_folder_secure_messaging_services,IAM - Keeper - Folder - Secure Messaging Services,Provides access to Keeper
-keeper_folder_viva_transcription,IAM - Keeper - Folder - Viva Transcription,Provides access to Keeper
-keeper_role_engineering_leaders,IAM - Keeper - Role - Engineering Leaders,Provides access to Keeper
-keeper_role_engineering_staff,IAM - Keeper - Role - Engineering Staff,Provides access to Keeper
-keeper_role_executive_assistants,IAM - Keeper - Role - Executive Assistants,Provides access to Keeper
-keeper_role_executive_staff,IAM - Keeper - Role - Executive Staff,Provides access to Keeper
-keeper_role_share_user,IAM - Keeper - Role - Share User,Provides access to Keeper
-keeper_role_tech_support,IAM - Keeper - Role - Tech Support,Provides access to Keeper
-keeper_role_user,IAM - Keeper - Role - User,Provides access to Keeper
-kudos_care_team_leadership,IAM - Kudos - Care Team Leadership,Provides access to Klue
-kudos_manager,IAM - Kudos - Manager,Provides access to Klue
-kudos_member,IAM - Kudos - Member,Provides access to Kudos
-kudos_support_team,IAM - Kudos - Support Team,Provides access to Kudos
-kudos_team_lead,IAM - Kudos - Team Lead,Provides access to Kudos
-lastpass_accounting_admin,IAM - Lastpass - Accounting - Admin,Provides access to LastPass group(s)
-lastpass_app_store_integration_read_only,IAM - Lastpass - App-Store-Integration - Read Only,Provides access to LastPass group(s)
-lastpass_athenahealth_admin,IAM - Lastpass - Athenahealth - Admin,Provides access to LastPass group(s)
-lastpass_b2b_gtm,IAM - Lastpass - B2B GTM,Provides access to LastPass group(s)
-lastpass_claims,IAM - Lastpass - Claims,Provides access to LastPass group(s)
-lastpass_engineering_control,IAM - Lastpass - Engineering - Control,Provides access to LastPass group(s)
-lastpass_engineering_dr,IAM - Lastpass - Engineering - DR,Provides access to LastPass group(s)
-lastpass_engineering_ds,IAM - Lastpass - Engineering - DS,Provides access to LastPass group(s)
-lastpass_engineering_general,IAM - Lastpass - Engineering - General,Provides access to LastPass group(s)
-lastpass_engineering_general_read_only,IAM - Lastpass - Engineering - General - Read Only,Provides access to LastPass group(s)
-lastpass_engineering_mobile,IAM - Lastpass - Engineering - Mobile,Provides access to LastPass group(s)
-lastpass_engineering_production,IAM - Lastpass - Engineering - Production,Provides access to LastPass group(s)
-lastpass_engineering_it_qa_system_creds_admin,IAM - Lastpass - Engineering/IT QA System Creds - Admin,Provides access to LastPass group(s)
-lastpass_engineering_it_qa_system_creds_read_only,IAM - Lastpass - Engineering/IT QA System Creds - Read Only,Provides access to LastPass group(s)
-lastpass_executive_assistants,IAM - Lastpass - Executive Assistants,Provides access to LastPass group(s)
-lastpass_hr_admin_read_only,IAM - Lastpass - HR-Admin - Read Only,Provides access to LastPass group(s)
-lastpass_infosec_admin,IAM - Lastpass - InfoSec - Admin,Provides access to LastPass group(s)
-lastpass_it_engineering,IAM - Lastpass - IT-Engineering,Provides access to LastPass group(s)
-lastpass_it_team,IAM - Lastpass - IT-Team,Provides access to LastPass group(s)
-lastpass_kahoot_users,IAM - Lastpass - Kahoot! Users,Provides access to LastPass group(s)
-lastpass_lastpass_api_access,IAM - Lastpass - LastPass API Access,Provides access to LastPass group(s)
-lastpass_marketing_zoom_access_read_only,IAM - Lastpass - Marketing Zoom Access - Read Only,Provides access to LastPass group(s)
-lastpass_pagerduty_service_account_api_access,IAM - Lastpass - PagerDuty Service Account API Access,Provides access to LastPass group(s)
-lastpass_pathology,IAM - Lastpass - Pathology,Provides access to LastPass group(s)
-lastpass_platform_complexes,IAM - Lastpass - Platform - Complexes,Provides access to LastPass group(s)
-lastpass_product_support,IAM - Lastpass - Product Support,Provides access to LastPass group(s)
-lastpass_product_support_manager,IAM - Lastpass - Product Support - Manager,Provides access to LastPass group(s)
-lastpass_qa,IAM - Lastpass - QA,Provides access to LastPass group(s)
-lastpass_records_administrative_specialists,IAM - Lastpass - Records Administrative Specialists,Provides access to LastPass group(s)
-lastpass_records_specialist_2s,IAM - Lastpass - Records Specialist 2s,Provides access to LastPass group(s)
-lastpass_records_specialist_leads,IAM - Lastpass - Records Specialist Leads,Provides access to LastPass group(s)
-lastpass_records_specialist_managers,IAM - Lastpass - Records Specialist Managers,Provides access to LastPass group(s)
-lastpass_records_team_secure_messaging_read_only,IAM - Lastpass - Records Team - Secure Messaging - Read Only,Provides access to LastPass group(s)
-lastpass_research_service_account_read_only,IAM - Lastpass - Research Service Account - Read Only,Provides access to LastPass group(s)
-lastpass_sailpoint_break_glass_admin,IAM - Lastpass - SailPoint Break-Glass Admin,Provides access to LastPass group(s)
-lastpass_senior_records_specialists,IAM - Lastpass - Senior Records Specialists,Provides access to LastPass group(s)
-lastpass_sfmc_sftp_server_read_only,IAM - Lastpass - SFMC sFTP Server - Read Only,Provides access to LastPass group(s)
-lastpass_siteground_admin,IAM - Lastpass - Siteground - Admin,Provides access to LastPass group(s)
-lastpass_siteground_read_only,IAM - Lastpass - Siteground - Read Only,Provides access to LastPass group(s)
-lastpass_solutions_engineering,IAM - Lastpass - Solutions Engineering,Provides access to LastPass group(s)
-lastpass_stock_admin_read_only,IAM - Lastpass - Stock-Admin - Read Only,Provides access to LastPass group(s)
-lastpass_summit_team,IAM - Lastpass - Summit Team,Provides access to LastPass group(s)
-lastpass_training_team,IAM - Lastpass - Training Team,Provides access to LastPass group(s)
-lastpass_umr_upload_download_users,IAM - Lastpass - UMR Upload/Download Users,Provides access to LastPass group(s)
-lastpass_viva_transcription_access,IAM - Lastpass - Viva Transcription Access,Provides access to LastPass group(s)
-launchdarkly_admin,IAM - LaunchDarkly - Admin,Provides access to LaunchDarkly
-launchdarkly_developer,IAM - LaunchDarkly - Developer,Provides access to LaunchDarkly
-launchdarkly_reader,IAM - LaunchDarkly - Reader,Provides access to LaunchDarkly
-launchdarkly_uat_developer,IAM - LaunchDarkly - UAT Developer,Provides access to LaunchDarkly
-launchdarkly_vinsol,IAM - LaunchDarkly - Vinsol,Provides access to LaunchDarkly
-launchdarkly_writer,IAM - LaunchDarkly - Writer,Provides access to LaunchDarkly
-learnupon_admin,IAM - LearnUpon - Admin,Provides access to LearnUpon
-learnupon_instructor,IAM - LearnUpon - Instructor,Provides access to LearnUpon
-learnupon_learner,IAM - LearnUpon - Learner,Provides access to LearnUpon
-learnupon_manager,IAM - LearnUpon - Manager,Provides access to LearnUpon
-lever,IAM - Lever,Provides access to Lever
-linkedin_analyst,IAM - LinkedIn - Analyst,Provides access to Lever
-linkedin_content_admin,IAM - LinkedIn - Content Admin,Provides access to Lever
-linkedin_curator,IAM - LinkedIn - Curator,Provides access to Lever
-linkedin_super_admin,IAM - LinkedIn - Super Admin,Provides access to LinkedIn
-linkedin_campaign_manager_account_manager,IAM - LinkedIn Campaign Manager - Account Manager,Provides access to LinkedIn
-linkedin_campaign_manager_campaign_manager,IAM - LinkedIn Campaign Manager - Campaign Manager,Provides access to LinkedIn
-linkedin_campaign_manager_creative_manager,IAM - LinkedIn Campaign Manager - Creative Manager,Provides access to LinkedIn
-linkedin_campaign_manager_viewer,IAM - LinkedIn Campaign Manager - Viewer,Provides access to LinkedIn Campaign Manager
-linksquares_administrator,IAM - LinkSquares - Administrator,Provides access to LinkSquares - Administrator
-linksquares_manager,IAM - LinkSquares - Manager,Provides access to LinkSquares
-linksquares_read-only,IAM - LinkSquares - Read-Only,Provides access to LinkSquares
-linksquares_user,IAM - LinkSquares - User,Provides access to LinkSquares
-lob,IAM - Lob,Provides access to Lob
-lob_admin,IAM - Lob - Admin,Provides access to Lob
-lob_read_write,IAM - Lob - Read & Write,Provides access to Lob
-logstore_integration3,IAM - Logstore - Integration3,Provides access to Logstore
-logstore_platform_dev,IAM - Logstore - Platform-Dev,Provides access to Logstore
-logstore_production,IAM - Logstore - Production,Provides access to Logstore
-logstore_uat,IAM - Logstore - UAT,Provides access to Logstore
-logstore_uat_us_west,IAM - Logstore - UAT - US West,Provides access to Logstore
-looker_prod_admin,IAM - Looker - Prod - Admin,Provides access to Looker
-looker_dev_admin,IAM - Looker - Dev - Admin,Provides access to Looker
-looker_uat_admin,IAM - Looker - UAT - Admin,Provides access to Looker
-looker_prod_developer,IAM - Looker - Prod - Developer,Provides access to Looker
-looker_dev_developer,IAM - Looker - Dev - Developer,Provides access to Looker
-looker_uat_developer,IAM - Looker - UAT - Developer,Provides access to Looker
-looker_prod_user,IAM - Looker - Prod - User,Provides access to Looker
-looker_dev_user,IAM - Looker - Dev - User,Provides access to Looker
-looker_uat_user,IAM - Looker - UAT - User,Provides access to Looker
-looker_uat_analyst,IAM - Looker - UAT Analyst,Provides access to Looker
-looker_prod_viewer,IAM - Looker - Prod - Viewer,Provides access to Looker
-looker_dev_viewer,IAM - Looker - Dev - Viewer,Provides access to Looker
-looker_uat_viewer,IAM - Looker - UAT - Viewer,Provides access to Looker
-looker_prod_financeuser,IAM - Looker - Prod - FinanceUser,Provides access to Looker
-looker_dev_financeuser,IAM - Looker - Dev - FinanceUser,Provides access to Looker
-looker_uat_financeuser,IAM - Looker - UAT - FinanceUser,Provides access to Looker
-looker_prod_financedeveloper,IAM - Looker - Prod - FinanceDeveloper,Provides access to Looker
-looker_dev_financedeveloper,IAM - Looker - Dev - FinanceDeveloper,Provides access to Looker
-looker_uat_financedeveloper,IAM - Looker - UAT - FinanceDeveloper,Provides access to Looker
-looker_prod_redcatalogdeveloper,IAM - Looker - Prod - RedCatalogDeveloper,Provides access to Looker
-looker_prod_redcataloguser,IAM - Looker - Prod - RedCatalogUser,Provides access to Looker
-looker_prod_reddeveloper,IAM - Looker - Prod - RedDeveloper,Provides access to Looker
-looker_prod_reduser,IAM - Looker - Prod - RedUser,Provides access to Looker
-looker_dev_redcatalogdeveloper,IAM - Looker - Dev - RedCatalogDeveloper,Provides access to Looker
-looker_dev_redcataloguser,IAM - Looker - Dev - RedCatalogUser,Provides access to Looker
-looker_dev_reddeveloper,IAM - Looker - Dev - RedDeveloper,Provides access to Looker
-looker_dev_reduser,IAM - Looker - Dev - RedUser,Provides access to Looker
-looker_uat_redcatalogdeveloper,IAM - Looker - UAT - RedCatalogDeveloper,Provides access to Looker
-looker_uat_redcataloguser,IAM - Looker - UAT - RedCatalogUser,Provides access to Looker
-looker_uat_reddeveloper,IAM - Looker - UAT - RedDeveloper,Provides access to Looker
-looker_uat_reduser,IAM - Looker - UAT - RedUser,Provides access to Looker
-lucid_billingadmin,IAM - Lucid Billing Admin Role,Provides access to Lucid
-lucid_teamadmin,IAM - Lucid Team Admin Role,Provides access to Lucid
-lucidchart_unlicensed,IAM - Lucidchart- View Only,Provides access to Lucidchart
-lucidchart_licensed,IAM - Lucidchart - Licensed (Read/Write),Provides access to Lucidchart
-lucidscale_licensed,IAM - Lucidscale - Licensed (Read/Write),Provides access to Lucidscale
-marketo,IAM - Marketo,Provides access to Marketo
-marketo_admin,IAM - Marketo - Admin,Provides access to Marketo
-marketo_analytics_user,IAM - Marketo - Analytics User,Provides access to Marketo
-marketo_ipad_remote_event_access,IAM - Marketo - iPad Remote Event Access,Provides access to Marketo
-marketo_marketing_user,IAM - Marketo - Marketing user,Provides access to Marketo
-marketo_web_designer,IAM - Marketo - Web Designer,Provides access to Marketo
-mayo_clinic_carelink,IAM - Mayo Clinic CareLink,Provides access to Mayo Clinic CareLink
-microsoft_super_admin,IAM - Microsoft O365 - Super Admin,Provides access to Microsoft O365
-microsoft_helpdesk_admin,IAM - Microsoft O365 - Helpdesk Admin,Provides access to Microsoft O365
-microsoft_business_standard,IAM - Microsoft O365 - Business Standard,Provides access to Microsoft O365 with Business Standard License
-microsoft_standard_user,IAM - Microsoft O365 - Standard User,Provides access to Microsoft O365
-microsoft_business_premium,IAM - Microsoft O365 - Business Premium,Provides access to Microsoft O365 with Business Premium Licenses
-microsoft_unlicensed,IAM - Microsoft O365 - Unlicensed,Removes Microsoft O365 License
-nas_admin,IAM - NAS - Admin,Provides access to NAS (Patient Care Scans)
-nas_pwm,IAM - NAS - PWM,Provides access to NAS (Patient Care Scans)
-nas_rno,IAM - NAS - RNO,Provides access to NAS (Patient Care Scans)
-new_relic,IAM - New Relic,Provides access to New Relic
-new_relic_admin,IAM - New Relic - Admin,Provides access to New Relic
-new_relic_owner,IAM - New Relic - Owner,Provides access to New Relic
-nice_cxo,IAM - NICE CXOne,Provides access to NICE CXOne
-nice_eem,IAM - NICE EEM,Provides access to NICE EEM
-nice_eem_admin,IAM - NICE EEM - Admin,Provides access to NICE EEM
-nice_qci,IAM - NICE QCI,Provides access to NICE QCI
-nice_qci_superuser,IAM - NICE QCI - Superuser,Provides access to NICE QCI
-nice_qci_quality_admin,IAM - NICE QCI - Quality Admin,Provides access to NICE QCI
-nice_qci_supervisor,IAM - NICE QCI - Supervisor,Provides access to NICE QCI
-nice_wfm,IAM - NICE WFM,Provides access to NICE WFM
-nice_wfm_admin,IAM - NICE WFM - Admin,Provides access to NICE WFM
-o2o_gr_production_uar,IAM - O2O Grand Rounds Production,Provides insight for Grand Rounds access
-office365,IAM - Office365,Provides access to Microsoft Office 365
-officespace_software,IAM - OfficeSpace Software,Provides access to OfficeSpace
-officespace_software_booking_manager,IAM - OfficeSpace Software - Booking Manager,Provides access to OfficeSpace
-officespace_software_facility_manager,IAM - OfficeSpace Software - Facility Manager,Provides access to OfficeSpace
-officespace_software_move_manager,IAM - OfficeSpace Software - Move Manager,Provides access to OfficeSpace
-officespace_software_report_consumer,IAM - OfficeSpace Software - Report Consumer,Provides access to OfficeSpace
-officespace_software_safeguard_guest,IAM - OfficeSpace Software - Safeguard Guest,Provides access to OfficeSpace
-officespace_software_system_administrator,IAM - OfficeSpace Software - System Administrator,Provides access to OfficeSpace
-okta_access_requests,IAM - Okta Access Requests - User,Provides access to Okta Access Requests
-okta_access_requests_default_assignee,IAM - Okta Access Requests - Default Assignee,Provides access to Okta Access Requests
-oomnitza,IAM - Oomnitza,Provides access to Oomnitza
-oomnitza_accounting,IAM - Oomnitza - Accounting,Provides access to Oomnitza
-oomnitza_admin,IAM - Oomnitza - Admin,Provides access to Oomnitza
-oomnitza_contract_owner,IAM - Oomnitza - Contract Owner,Provides access to Oomnitza
-oomnitza_product_support,IAM - Oomnitza - Product Support,Provides access to Oomnitza
-oomnitza_read_only_audit,IAM - Oomnitza - Read Only Audit,Provides access to Oomnitza
-oomnitza_super_administrator,IAM - Oomnitza - Super Administrator,Provides access to Oomnitza
-opslevel,IAM - OpsLevel,Provides access to OpsLevel
-optinmonster_admin,IAM - Optinmonster - Admin,Provides access to OpsLevel
-optinmonster_author,IAM - Optinmonster - Author,Provides access to OpsLevel
-optinmonster_manager,IAM - Optinmonster - Manager,Provides access to OpsLevel
-optinmonster_viewer,IAM - Optinmonster - Viewer,Provides access to Optinmonster
-orca_administrator,IAM - Orca - Administrator,Provides access to Orca
-orca_alert_manager,IAM - Orca - Alert Manager,Provides access to Orca
-orca_contributor,IAM - Orca - Contributor,Provides access to Orca
-orca_editor,IAM - Orca - Editor,Provides access to Orca
-orca_viewer,IAM - Orca - Viewer,Provides access to Orca
-oreilly_user,IAM - Oreilly - User,Provides access to Oreilly
-pagerduty_global_admin,IAM - PagerDuty - Global Admin,Provides access to PagerDuty
-pagerduty_account_owner,IAM - PagerDuty - Account Owner,Provides access to PagerDuty
-pagerduty_manager,IAM - PagerDuty - Manager,Provides access to PagerDuty
-pagerduty_observer,IAM - PagerDuty - Observer,Provides access to PagerDuty
-pagerduty_responder,IAM - PagerDuty - Responder,Provides access to PagerDuty
-pagerduty_restricted_access,IAM - PagerDuty - Restricted Access,Provides access to PagerDuty
-pagerduty_team_responder,IAM - PagerDuty - Team Responder,Provides access to PagerDuty
-pagerduty_stakeholder,IAM - PagerDuty - Stakeholder,Provides access to PagerDuty
-pagerduty_limited_stakeholder,IAM - PagerDuty - Limited Stakeholder,Provides access to PagerDuty
-palo_alto_networks_panorama,IAM - Palo Alto Networks Panorama,Provides access to Palo Alto Networks Panorama
-palo_alto_networks_panorama_panorama_administrator,IAM - Palo Alto Networks Panorama - Panorama Administrator,Provides access to Palo Alto Networks Panorama
-palo_alto_networks_panorama_superuser,IAM - Palo Alto Networks Panorama - Superuser,Provides access to Palo Alto Networks Panorama
-palo_alto_networks_panorama_superuser_read_only,IAM - Palo Alto Networks Panorama - Superuser (read-only),Provides access to Palo Alto Networks Panorama
-patientping,IAM - PatientPing,Provides access to PatientPing
-prelude_user,IAM - Prelude - User,Provides access to Prelude
-prism,IAM - Prism,Provides access to Prism
-prisma_access_gateways,IAM - Prisma Access Gateways,Provides access to Global Protect VPN
-prisma_access_portal,Prisma Access Portal,Provides access to Global Protect VPN
-production_ftp,IAM - Production FTP,Provides access to Production FTP
-pusher,IAM - Pusher - User,Provides access to Pusher
-qualtrics_owner,IAM - Qualtrics - Owner,Provides access to Qualtrics
-qualtrics_brand_ambassador,IAM - Qualtrics - Brand Ambassador,Provides access to Qualtrics
-qualtrics_standard_qualtrics,IAM - Qualtrics - Standard User,Provides access to Qualtrics
-qualys_contact,IAM - Qualys - Contact,Provides access to Qualys
-qualys_manager,IAM - Qualys - Manager,Provides access to Qualys
-qualys_reader,IAM - Qualys - Reader,Provides access to Qualys
-qualys_remediation_user,IAM - Qualys - Remediation User,Provides access to Qualys
-qualys_scanner,IAM - Qualys - Scanner,Provides access to Qualys
-qualys_unit_manager,IAM - Qualys - Unit Manager,Provides access to Qualys
-redox_user,IAM - Redox Engine - User - MANUAL,Provides access to Redox Engine
-redox_phi,IAM - Redox Engine - PHI Access - MANUAL,Provides access to Redox Engine
-rfpio_team_member,IAM - RFPIo Team Member,Provides access to RFPIo
-rfpio_admin_company,IAM - RFPIo - Admin - Company,Provides access to RFPIo
-rfpio_admin_content_company_project,IAM - RFPIo - Admin - Content Company Project,Provides access to RFPIo
-rfpio_admin_with_all_permissions,IAM - RFPIo - Admin with ALL Permissions,Provides access to RFPIo
-rfpio_manager,IAM - RFPIo - Manager,Provides access to RFPIo
-rfpio_project_requester,IAM - RFPIo - Project Requester,Provides access to RFPIo
-ringcentral_billing_admin,IAM - RingCentral - Billing Admin,Provides access to RingCentral
-ringcentral_manager,IAM - RingCentral - Manager,Provides access to RingCentral
-ringcentral_phone_system_admin,IAM - RingCentral - Phone System Admin,Provides access to RingCentral
-ringcentral_standard,IAM - RingCentral - Standard,Provides access to RingCentral
-ringcentral_standard_int_wo_prem,IAM - RingCentral - Standard (International without Premium),Provides access to RingCentral
-ringcentral_standard_int,IAM - RingCentral - Standard (International),Provides access to RingCentral
-ringcentral_standard_no_prem,IAM - RingCentral - Standard (No Premium),Provides access to RingCentral
-ringcentral_super_admin,IAM - RingCentral - Super Admin,Provides access to RingCentral
-ringcentral_user_admin,IAM - RingCentral - User Admin,Provides access to RingCentral
-rollbar,IAM - Rollbar,Provides access to Rollbar
-rxadvance,IAM - RxAdvance,Provides access to RxAdvance
-salesforce_marketing_cloud_administrator,IAM - Salesforce Marketing Cloud - Administrator,Provides access to Salesforce Marketing Cloud
-salesforce_marketing_cloud_analyst,IAM - Salesforce Marketing Cloud - Analyst,Provides access to Salesforce Marketing Cloud
-salesforce_marketing_cloud_content_creator,IAM - Salesforce Marketing Cloud - Content Creator,Provides access to Salesforce Marketing Cloud
-salesforce_marketing_cloud_data_manager,IAM - Salesforce Marketing Cloud - Data manager,Provides access to Salesforce Marketing Cloud
-salesforce_marketing_cloud_distributed_sending_user,IAM - Salesforce Marketing Cloud - Distributed Sending User,Provides access to Salesforce Marketing Cloud
-salesforce_marketing_cloud_marketing_cloud_administrator,IAM - Salesforce Marketing Cloud - Marketing Cloud Administrator,Provides access to Salesforce Marketing Cloud
-salesforce_marketing_cloud_marketing_cloud_content_editor_publisher,IAM - Salesforce Marketing Cloud - Marketing Cloud Content Editor/Publisher,Provides access to Salesforce Marketing Cloud
-salesforce_marketing_cloud_marketing_cloud_marketing_cloud_channel_manager,IAM - Salesforce Marketing Cloud - Marketing Cloud Marketing Cloud Channel Manager,Provides access to Salesforce Marketing Cloud
-salesforce_marketing_cloud_marketing_cloud_security_administrator,IAM - Salesforce Marketing Cloud - Marketing Cloud Security Administrator,Provides access to Salesforce Marketing Cloud
-salesforce_marketing_cloud_marketing_cloud_viewer,IAM - Salesforce Marketing Cloud - Marketing Cloud Viewer,Provides access to Salesforce Marketing Cloud
-salesforce_sales_cloud,IAM - Salesforce.com,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_gr_accounting_user,IAM - Salesforce Sales Cloud - GR Accounting User,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_gr_bdr_user,IAM - Salesforce Sales Cloud - GR BDR User,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_gr_case_management_user,IAM - Salesforce Sales Cloud - GR Case Management User,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_gr_customer_solutions_user,IAM - Salesforce Sales Cloud - GR Customer Solutions User,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_gr_customer_success_user,IAM - Salesforce Sales Cloud - GR Customer Success User,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_gr_demand_generation_user,IAM - Salesforce Sales Cloud - GR Demand Generation User,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_gr_finance_user,IAM - Salesforce Sales Cloud - GR Finance User,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_gr_gtm_ops_user,IAM - Salesforce Sales Cloud - GR GTM Ops User,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_gr_implementations_user,IAM - Salesforce Sales Cloud - GR Implementations User,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_gr_included_health,IAM - Salesforce Sales Cloud - GR Included Health,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_standard_user,IAM - Salesforce Sales Cloud - Standard User,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_gr_read_only_user,IAM - Salesforce Sales Cloud - GR Read Only User,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_gr_sales_user,IAM - Salesforce Sales Cloud - GR Sales User,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_gr_solutions_engineering_user,IAM - Salesforce Sales Cloud - GR Solutions Engineering User,Provides access to Salesforce Sales Cloud
-salesforce_sales_cloud_system_administrator,IAM - Salesforce Sales Cloud - System Administrator,Provides access to Salesforce Sales Cloud
-sandbox_five9_uat_salesforce_uat,IAM - Sandbox - Five9 UAT - Salesforce UAT,Provides access to Sandbox - Five9 UAT - Salesforce UAT
-securew2_admin,IAM - SecureW2 - Admin,Provides access to SecureW2
-securew2_help_desk,IAM - SecureW2 - Help Desk,Provides access to SecureW2
-sendgrid_admin,IAM - Sendgrid - Admin,Provides access to Sendgrid
-sendgrid_read_only_access,IAM - Sendgrid - Read-Only Access,Provides access to Sendgrid
-sendgrid_restricted_access_custom,IAM - Sendgrid - Restricted Access (Custom),Provides access to Sendgrid
-sendgrid_ldod_admin,IAM - LDOD Sendgrid - Admin,Provides access to LDOD Sendgrid
-sendgrid_ldod_read_only_access,IAM - LDOD Sendgrid - Read-Only Access,Provides access to LDOD Sendgrid
-sendgrid_ldod_restricted_access_custom,IAM - Sendgrid - Restricted Access (Custom),Provides access to Sendgrid
-sendoso_admin,IAM - Sendoso - Admin,Provides access to Sendoso
-sendoso_department_admin,IAM - Sendoso - Department Admin,Provides access to Sendoso
-sendoso_manager,IAM - Sendoso - Manager,Provides access to Sendoso
-sendoso_sender,IAM - Sendoso - Sender,Provides access to Sendoso
-sendwithus_admin,IAM - SendWithUs - Admin,Provides access to SendWithUs
-sendwithus_editor,IAM - SendWithUs - Editor,Provides access to SendWithUs
-sendwithus_publisher,IAM - SendWithUs - Publisher,Provides access to SendWithUs
-sendwithus_reader,IAM - SendWithUs - Reader,Provides access to SendWithUs
-sentry_prod,IAM - Sentry PROD - Member,Provides access to Sentry PROD with member role
-sentry_prod_admin,IAM - Sentry PROD - Admin,Provides access to Sentry PROD with admin role
-sentry_nonprod,IAM - Sentry NONPROD - Member,Provides access to Sentry NONPROD with member role
-sentry_admin_nonprod,IAM - Sentry NONPROD - Admin,Provides access to Sentry NONPROD with admin role
-shareworks,IAM - Shareworks,Provides access to Shareworks
-shareworks_admin,IAM - Shareworks - Admin,Provides access to Shareworks
-signal_sciences,IAM - Signal Sciences,Provides access to Signal Sciences
-signal_sciences_admin,IAM - Signal Sciences - Admin,Provides access to Signal Sciences
-signal_sciences_observer,IAM - Signal Sciences - Observer,Provides access to Signal Sciences
-signal_sciences_owner,IAM - Signal Sciences - Owner,Provides access to Signal Sciences
-signalfx_admin,IAM - SignalFX - Admin,Provides access to SignalFX
-signalfx_member,IAM - SignalFX - Member,Provides access to SignalFX
-sketch,IAM - Sketch,Provides access to Sketch
-slack_connect_channels_admin,IAM - Slack - Connect Channels Admin,Provides access to Slack
-slack_connect_compliance_admin,IAM - Slack - Connect Compliance Admin,Provides access to Slack
-slack_connect_member,IAM - Slack - Connect Member,Provides access to Slack
-slack_connect_roles_admin,IAM - Slack - Connect Roles Admin,Provides access to Slack
-slack_connect_users_admin,IAM - Slack - Connect Users Admin,Provides access to Slack
-slack_dev_eng_channels_admin,IAM - Slack - DEV Engineering Channels Admin,Provides access to Slack
-slack_dev_eng_compliance_admin,IAM - Slack - DEV Engineering Compliance Admin,Provides access to Slack
-slack_dev_eng_member,IAM - Slack - DEV Engineering Member,Provides access to Slack
-slack_dev_eng_roles_admin,IAM - Slack - DEV Engineering Roles Admin,Provides access to Slack
-slack_dev_eng_users_admin,IAM - Slack - DEV Engineering Users Admin,Provides access to Slack
-slack_epdd_channels_admin,IAM - Slack - EPDD Channels Admin,Provides access to Slack
-slack_epdd_compliance_admin,IAM - Slack - EPDD Compliance Admin,Provides access to Slack
-slack_epdd_member,IAM - Slack - EPDD Member,Provides access to Slack
-slack_epdd_roles_admin,IAM - Slack - EPDD Roles Admin,Provides access to Slack
-slack_epdd_users_admin,IAM - Slack - EPDD Users Admin,Provides access to Slack
-slack_ih_channels_admin,IAM - Slack - IH Channels Admin,Provides access to Slack
-slack_ih_compliance_admin,IAM - Slack - IH Compliance Admin,Provides access to Slack
-slack_ih_member,IAM - Slack - IH Member,Provides access to Slack
-slack_ih_multi_channel_guest,IAM - Slack - IH Multi-Channel Guest,Provides access to Slack
-slack_ih_single_channel_guest,IAM - Slack - IH Single-Channel Guest,Provides access to Slack
-slack_ih_roles_admin,IAM - Slack - IH Roles Admin,Provides access to Slack
-slack_ih_users_admin,IAM - Slack - IH Users Admin,Provides access to Slack
-slack_org_channels_admin,IAM - Slack - Org Channels Admin,Provides access to Slack
-slack_org_compliance_admin,IAM - Slack - Org Compliance Admin,Provides access to Slack
-slack_org_roles_admin,IAM - Slack - Org Roles Admin,Provides access to Slack
-slack_org_users_admin,IAM - Slack - Org Users Admin,Provides access to Slack
-smartling_account_owner,IAM - Smartling - Account Owner,Provides access to Smartling
-smartling_project_manager,IAM - Smartling - Project Manager,Provides access to Smartling
-stripe_administrator,IAM - Stripe - Administrator,Provides access to Stripe - Administrator
-stripe_analyst,IAM - Stripe - Analyst,Provides access to Stripe - Analyst
-stripe_dispute-analyst,IAM - Stripe - Dispute Analyst,Provides access to Stripe - Dispute Analyst
-stripe_iam-admin,IAM - Stripe - IAM Admin,Provides access to Stripe - IAM Admin
-stripe_view-only,IAM - Stripe - View-Only,Provides access to Stripe - View-Only
-surveymonkey,IAM - SurveyMonkey,Provides access to SurveyMonkey
-surveymonkey_admin,IAM - SurveyMonkey - Admin,Provides access to SurveyMonkey
-tableau_creator,IAM - Tableau - Creator,Provides access to Tableau
-tableau_explorer,IAM - Tableau - Explorer,Provides access to Tableau
-tableau_explorer_can_publish,IAM - Tableau - Explorer (Can Publish),Provides access to Tableau
-tableau_site_administrator_creator,IAM - Tableau - Site Administrator Creator,Provides access to Tableau
-tableau_site_administrator_explorer,IAM - Tableau - Site Administrator Explorer,Provides access to Tableau
-tableau_viewer,IAM - Tableau - Viewer,Provides access to Tableau
-talentlms_admin,IAM - TalentLMS - Admin,Provides access to TalentLMS
-talentlms_instructor,IAM - TalentLMS - Instructor,Provides access to TalentLMS
-talentlms_learner,IAM - TalentLMS - Learner,Provides access to TalentLMS
-talentlms_super_admin,IAM - TalentLMS - Super Admin,Provides access to TalentLMS
-tasktop_user,IAM - Tasktop - User,Provides access to Tasktop
-tasktop_auth,IAM - Tasktop - Auth,Provides authentication to Tasktop
-terraform_cloud,IAM - Terraform Cloud,Provides access to Terraform Cloud
-terraform_cloud_owner,IAM - Terraform Cloud - Owner,Provides access to Terraform Cloud
-textexpander,IAM - TextExpander,Provides access to TextExpander
-textexpander_care_team,IAM - TextExpander - Care Team,Provides access to TextExpander
-textexpander_careteam_leadership,IAM - TextExpander - CareTeam Leadership,Provides access to TextExpander
-textexpander_claims_team,IAM - TextExpander - Claims Team, Provides access to TextExpander
-textexpander_claims_team_google,IAM - TextExpander - Claims Team - Google, Provides access to TextExpander
-textexpander_claims_team_leadership,IAM - TextExpander - Claims Team Leadership, Provides access to TextExpander
-textexpander_clinical_vcs,IAM - TextExpander - Clinical VCS, Provides access to TextExpander
-textexpander_communities,IAM - TextExpander - Communities, Provides access to TextExpander
-textexpander_record_spec_leadership,IAM - TextExpander - Record Spec. Leadership,Provides access to TextExpander
-textexpander_record_specialists,IAM - TextExpander - Record Specialists,Provides access to TextExpander
-textexpander_recruiting,IAM - TextExpander - Recruiting, Provides access to TextExpander
-textexpander_technology,IAM - Textexpander Information Technology, Provides access to TextExpander
-textexpander_the_clinic,IAM - TextExpander - The Clinic,Provides access to TextExpander
-textexpander_the_clinic_leadership,IAM - TextExpander - The Clinic Leadership,Provides access to TextExpander
-trello,IAM - Trello,Provides access to Trello
-twilio_administrator,IAM - Twilio - Administrator,Provides access to Twilio
-twilio_billing_manager,IAM - Twilio - Billing Manager,Provides access to Twilio
-twilio_developer,IAM - Twilio - Developer,Provides access to Twilio
-twilio_owner,IAM - Twilio - Owner,Provides access to Twilio
-uber_health,IAM - Uber Health,Provides access to Uber Health
-uberflip_account_admins,IAM - Uberflip - Account Admins,Provides access to Uberflip
-uberflip_analysts,IAM - Uberflip - Analysts,Provides access to Uberflip
-uberflip_authors,IAM - Uberflip - Authors,Provides access to Uberflip
-uberflip_content_managers,IAM - Uberflip - Content Managers,Provides access to Uberflip
-uberflip_demand_generation,IAM - Uberflip - Demand Generation,Provides access to Uberflip
-uberflip_developers___designers,IAM - Uberflip - Developers _ Designers,Provides access to Uberflip
-uberflip_sales_reps,IAM - Uberflip - Sales Reps,Provides access to Uberflip
-udemy_for_business,IAM - Udemy for Business,Provides access to Udemy
-umr_business_portal,IAM - UMR Business Portal,Provides access to UMR Business Portal
-verizon_wireless,IAM - Verizon Wireless,Provides access to Verizon Jetpack
-webex_webex_meetings_suite,IAM - Webex - Webex Meetings Suite, Provides access to Webex
-workday_sandbox,IAM - Workday Sandbox,Provides access to Workday Sandbox
-workday_sandbox_preview,IAM - Workday Sandbox Preview,Provides access to Workday Sandbox
-zendesk,IAM - Zendesk,Provides access to Zendesk
-zoom_admin_basic,IAM - Zoom - Admin - Basic,Provides access to Zoom
-zoom_admin_concurrent,IAM - Zoom - Admin - Concurrent,Provides access to Zoom
-zoom_admin_concurrent_webinar,IAM - Zoom - Admin - Concurrent - Webinar 5000,Provides access to Zoom
-zoom_admin_pro,IAM - Zoom - Admin - Pro,Provides access to Zoom
-zoom_admin_webinar,IAM - Zoom - Admin - Webinar 5000,Provides access to Zoom
-zoom_member_basic,IAM - Zoom - Member - Basic,Provides access to Zoom
-zoom_member_concurrent,IAM - Zoom - Member - Concurrent,Provides access to Zoom
-zoom_member_concurrent_webinar,IAM - Zoom - Member - Concurrent - Webinar 5000,Provides access to Zoom
-zoom_member_pro,IAM - Zoom - Member - Pro,Provides access to Zoom
-zoom_member_webinar,IAM - Zoom - Member - Webinar 5000,Provides access to Zoom
-zoom_telemedicine_admin_basic,IAM - Zoom Telemedicine - Admin - Basic,Provides access to Zoom Telemedicine
-zoom_telemedicine_admin_pro,IAM - Zoom Telemedicine - Admin - Pro,Provides access to Zoom Telemedicine
-zoom_telemedicine_member_basic,IAM - Zoom Telemedicine - Member - Basic,Provides access to Zoom Telemedicine
-zoom_telemedicine_member_pro,IAM - Zoom Telemedicine - Member - Pro,Provides access to Zoom Telemedicine
-auth0-prod_admin,Auth0-Prod - Admin - MANUAL,"Manual Provisioning Required, Group used for SAML and access certifications for Auth0"
-rubiconmd,RubiconMD - MANUAL,"Manual Provisioning Required, Group used for access certifications for RubiconMD"
-salesforce_marketing_cloud,Salesforce Marketing Cloud - MANUAL,"Manual Provisioning Required, Group used for access certifications for Salesforce Marketing Cloud"
+,,
+,,
+sg_restrict_meet_recording,SG - Restrict Google Meet Recording,Restricts access to record Google Meets
+sg_limited_access_term,SG - Limited Access Terminations,"Flexible group, used to restrict access to limited applictions for unique terminations"
+sg_int_access_restrictions_mail_drive,SG - International Access - Restrictions - Mail and Drive Exception,Restricts all access defined in security polices when traveling internationally except mail and drive
+sg_int_access_restrictions_mail,SG - International Access - Restrictions - Mail Exception,Restricts all access defined in security polices when traveling internationally except mail
+sg_int_access_all_restrictions,SG - International Access - All Restrictions,Restricts all access defined in security polices when traveling internationally
+sg_google_auth_exception,SG - Google Authenticator Exception,Grants exception to allow Google Authenticator as a factor
+sg_admin_leave,SG - Admin Leave,Security Group to restrict access for workers on Administrative Leave
+temp_employee_confluence,Temp Employee Confluence Access,Temporary group for all employee Confluence access
+zero_touch,IAM - Okta MFA - Zero-Touch,WARNING - Resets users' passwords and exempts them from MFA!
+sendbird_production_viewer,Sendbird - Production Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for Sendbird"
+sendbird_pilot_agent,Sendbird - Pilot Agent - MANUAL,"Manual Provisioning Required, Group used for access certifications for Sendbird"
+sendbird_owner,Sendbird - Owner - MANUAL,"Manual Provisioning Required, Group used for access certifications for Sendbird"
+sendbird_dev_and_test_engineer,Sendbird - Dev and Test Engineer - MANUAL,"Manual Provisioning Required, Group used for access certifications for Sendbird"
+sendbird_billing,Sendbird - Billing - MANUAL,"Manual Provisioning Required, Group used for access certifications for Sendbird"
+sendbird_admin,Sendbird - Admin - MANUAL,"Manual Provisioning Required, Group used for access certifications for Sendbird"
+gcp_ncw_viewer,GCP - NCW - Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_storage_object_viewer,GCP - NCW - Storage Object Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_storage_object_creator,GCP - NCW - Storage Object Creator - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_storage_object_admin,GCP - NCW - Storage Object Admin - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_service_account_actor,GCP - NCW - Service Account Actor - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_security_reviewer,GCP - NCW - Security Reviewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_project_mover,GCP - NCW - Project Mover - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_project_billing_manager,GCP - NCW - Project Billing Manager - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_owner,GCP - NCW - Owner - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_editor,GCP - NCW - Editor - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_cloud_build_service_account,GCP - NCW - Cloud Build Service Account - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_bigquery_user,GCP - NCW - BigQuery User - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_bigquery_job_user,GCP - NCW - BigQuery Job User - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_bigquery_data_viewer,GCP - NCW - BigQuery Data Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_bigquery_data_editor,GCP - NCW - BigQuery Data Editor - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_ncw_bigquery_admin,GCP - NCW - BigQuery Admin - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_frankie_viewer,GCP - Frankie - Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_frankie_storage_object_viewer,GCP - Frankie - Storage Object Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_frankie_storage_object_creator,GCP - Frankie - Storage Object Creator - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_frankie_storage_object_admin,GCP - Frankie - Storage Object Admin - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_frankie_project_mover,GCP - Frankie - Project Mover - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_frankie_project_billing_manager,GCP - Frankie - Project Billing Manager - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_frankie_owner,GCP - Frankie - Owner - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_frankie_editor,GCP - Frankie - Editor - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_frankie_bigquery_metadata_viewer,GCP - Frankie - BigQuery Metadata Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_frankie_bigquery_job_user,GCP - Frankie - BigQuery Job User - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_frankie_bigquery_data_editor,GCP - Frankie - BigQuery Data Editor - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+gcp_frankie_bigquery_admin,GCP - Frankie - BigQuery Admin - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
+github_doctor_on_demand_owner,GitHub - Doctor On Demand - Owner - MANUAL,"Manual Provisioning Required, Group used for access certifications for Github"
 ccadmin,CCAdmin - MANUAL,"Manual Provisioning Required, Group used for access certifications for CCAdmin"
 github_consultingmd_owner,GitHub - ConsultingMD - Owner - MANUAL,"Manual Provisioning Required, Group used for access certifications for Github"
-github_doctor_on_demand_owner,GitHub - Doctor On Demand - Owner - MANUAL,"Manual Provisioning Required, Group used for access certifications for Github"
-gcp_frankie_bigquery_admin,GCP - Frankie - BigQuery Admin - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_frankie_bigquery_data_editor,GCP - Frankie - BigQuery Data Editor - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_frankie_bigquery_job_user,GCP - Frankie - BigQuery Job User - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_frankie_bigquery_metadata_viewer,GCP - Frankie - BigQuery Metadata Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_frankie_editor,GCP - Frankie - Editor - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_frankie_owner,GCP - Frankie - Owner - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_frankie_project_billing_manager,GCP - Frankie - Project Billing Manager - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_frankie_project_mover,GCP - Frankie - Project Mover - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_frankie_storage_object_admin,GCP - Frankie - Storage Object Admin - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_frankie_storage_object_creator,GCP - Frankie - Storage Object Creator - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_frankie_storage_object_viewer,GCP - Frankie - Storage Object Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_frankie_viewer,GCP - Frankie - Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_bigquery_admin,GCP - NCW - BigQuery Admin - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_bigquery_data_editor,GCP - NCW - BigQuery Data Editor - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_bigquery_data_viewer,GCP - NCW - BigQuery Data Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_bigquery_job_user,GCP - NCW - BigQuery Job User - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_bigquery_user,GCP - NCW - BigQuery User - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_cloud_build_service_account,GCP - NCW - Cloud Build Service Account - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_editor,GCP - NCW - Editor - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_owner,GCP - NCW - Owner - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_project_billing_manager,GCP - NCW - Project Billing Manager - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_project_mover,GCP - NCW - Project Mover - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_security_reviewer,GCP - NCW - Security Reviewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_service_account_actor,GCP - NCW - Service Account Actor - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_storage_object_admin,GCP - NCW - Storage Object Admin - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_storage_object_creator,GCP - NCW - Storage Object Creator - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_storage_object_viewer,GCP - NCW - Storage Object Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-gcp_ncw_viewer,GCP - NCW - Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for GCP BigQuery Projects"
-sendbird_admin,Sendbird - Admin - MANUAL,"Manual Provisioning Required, Group used for access certifications for Sendbird"
-sendbird_billing,Sendbird - Billing - MANUAL,"Manual Provisioning Required, Group used for access certifications for Sendbird"
-sendbird_dev_and_test_engineer,Sendbird - Dev and Test Engineer - MANUAL,"Manual Provisioning Required, Group used for access certifications for Sendbird"
-sendbird_owner,Sendbird - Owner - MANUAL,"Manual Provisioning Required, Group used for access certifications for Sendbird"
-sendbird_pilot_agent,Sendbird - Pilot Agent - MANUAL,"Manual Provisioning Required, Group used for access certifications for Sendbird"
-sendbird_production_viewer,Sendbird - Production Viewer - MANUAL,"Manual Provisioning Required, Group used for access certifications for Sendbird"
-zero_touch,IAM - Okta MFA - Zero-Touch,"WARNING - Resets users' passwords and exempts them from MFA!"
-temp_employee_confluence,Temp Employee Confluence Access,"Temporary group for all employee Confluence access"
-sg_admin_leave,SG - Admin Leave,"Security Group to restrict access for workers on Administrative Leave"
-sg_google_auth_exception,SG - Google Authenticator Exception,"Grants exception to allow Google Authenticator as a factor"
-sg_int_access_all_restrictions,SG - International Access - All Restrictions,"Restricts all access defined in security polices when traveling internationally"
-sg_int_access_restrictions_mail,SG - International Access - Restrictions - Mail Exception,"Restricts all access defined in security polices when traveling internationally except mail"
-sg_int_access_restrictions_mail_drive,SG - International Access - Restrictions - Mail and Drive Exception,"Restricts all access defined in security polices when traveling internationally except mail and drive"
-sg_limited_access_term,SG - Limited Access Terminations,"Flexible group, used to restrict access to limited applictions for unique terminations"
-sg_restrict_meet_recording,SG - Restrict Google Meet Recording,"Restricts access to record Google Meets"
+salesforce_marketing_cloud,Salesforce Marketing Cloud - MANUAL,"Manual Provisioning Required, Group used for access certifications for Salesforce Marketing Cloud"
+rubiconmd,RubiconMD - MANUAL,"Manual Provisioning Required, Group used for access certifications for RubiconMD"
+auth0-prod_admin,Auth0-Prod - Admin - MANUAL,"Manual Provisioning Required, Group used for SAML and access certifications for Auth0"
+zoom_telemedicine_member_pro,IAM - Zoom Telemedicine - Member - Pro,Provides access to Zoom Telemedicine
+zoom_telemedicine_member_basic,IAM - Zoom Telemedicine - Member - Basic,Provides access to Zoom Telemedicine
+zoom_telemedicine_admin_pro,IAM - Zoom Telemedicine - Admin - Pro,Provides access to Zoom Telemedicine
+zoom_telemedicine_admin_basic,IAM - Zoom Telemedicine - Admin - Basic,Provides access to Zoom Telemedicine
+zoom_member_webinar,IAM - Zoom - Member - Webinar 5000,Provides access to Zoom
+zoom_member_pro,IAM - Zoom - Member - Pro,Provides access to Zoom
+zoom_member_concurrent_webinar,IAM - Zoom - Member - Concurrent - Webinar 5000,Provides access to Zoom
+zoom_member_concurrent,IAM - Zoom - Member - Concurrent,Provides access to Zoom
+zoom_member_basic,IAM - Zoom - Member - Basic,Provides access to Zoom
+zoom_admin_webinar,IAM - Zoom - Admin - Webinar 5000,Provides access to Zoom
+zoom_admin_pro,IAM - Zoom - Admin - Pro,Provides access to Zoom
+zoom_admin_concurrent_webinar,IAM - Zoom - Admin - Concurrent - Webinar 5000,Provides access to Zoom
+zoom_admin_concurrent,IAM - Zoom - Admin - Concurrent,Provides access to Zoom
+zoom_admin_basic,IAM - Zoom - Admin - Basic,Provides access to Zoom
+zendesk,IAM - Zendesk,Provides access to Zendesk
+workday_sandbox_preview,IAM - Workday Sandbox Preview,Provides access to Workday Sandbox
+workday_sandbox,IAM - Workday Sandbox,Provides access to Workday Sandbox
+webex_webex_meetings_suite,IAM - Webex - Webex Meetings Suite, Provides access to Webex
+verizon_wireless,IAM - Verizon Wireless,Provides access to Verizon Jetpack
+umr_business_portal,IAM - UMR Business Portal,Provides access to UMR Business Portal
+udemy_for_business,IAM - Udemy for Business,Provides access to Udemy
+uberflip_sales_reps,IAM - Uberflip - Sales Reps,Provides access to Uberflip
+uberflip_developers___designers,IAM - Uberflip - Developers _ Designers,Provides access to Uberflip
+uberflip_demand_generation,IAM - Uberflip - Demand Generation,Provides access to Uberflip
+uberflip_content_managers,IAM - Uberflip - Content Managers,Provides access to Uberflip
+uberflip_authors,IAM - Uberflip - Authors,Provides access to Uberflip
+uberflip_analysts,IAM - Uberflip - Analysts,Provides access to Uberflip
+uberflip_account_admins,IAM - Uberflip - Account Admins,Provides access to Uberflip
+uber_health,IAM - Uber Health,Provides access to Uber Health
+twilio_owner,IAM - Twilio - Owner,Provides access to Twilio
+twilio_developer,IAM - Twilio - Developer,Provides access to Twilio
+twilio_billing_manager,IAM - Twilio - Billing Manager,Provides access to Twilio
+twilio_administrator,IAM - Twilio - Administrator,Provides access to Twilio
+trello,IAM - Trello,Provides access to Trello
+textexpander_the_clinic_leadership,IAM - TextExpander - The Clinic Leadership,Provides access to TextExpander
+textexpander_the_clinic,IAM - TextExpander - The Clinic,Provides access to TextExpander
+textexpander_technology,IAM - Textexpander Information Technology, Provides access to TextExpander
+textexpander_recruiting,IAM - TextExpander - Recruiting, Provides access to TextExpander
+textexpander_record_specialists,IAM - TextExpander - Record Specialists,Provides access to TextExpander
+textexpander_record_spec_leadership,IAM - TextExpander - Record Spec. Leadership,Provides access to TextExpander
+textexpander_communities,IAM - TextExpander - Communities, Provides access to TextExpander
+textexpander_clinical_vcs,IAM - TextExpander - Clinical VCS, Provides access to TextExpander
+textexpander_claims_team_leadership,IAM - TextExpander - Claims Team Leadership, Provides access to TextExpander
+textexpander_claims_team_google,IAM - TextExpander - Claims Team - Google, Provides access to TextExpander
+textexpander_claims_team,IAM - TextExpander - Claims Team, Provides access to TextExpander
+textexpander_careteam_leadership,IAM - TextExpander - CareTeam Leadership,Provides access to TextExpander
+textexpander_care_team,IAM - TextExpander - Care Team,Provides access to TextExpander
+textexpander,IAM - TextExpander,Provides access to TextExpander
+terraform_cloud_owner,IAM - Terraform Cloud - Owner,Provides access to Terraform Cloud
+terraform_cloud,IAM - Terraform Cloud,Provides access to Terraform Cloud
+tasktop_auth,IAM - Tasktop - Auth,Provides authentication to Tasktop
+tasktop_user,IAM - Tasktop - User,Provides access to Tasktop
+talentlms_super_admin,IAM - TalentLMS - Super Admin,Provides access to TalentLMS
+talentlms_learner,IAM - TalentLMS - Learner,Provides access to TalentLMS
+talentlms_instructor,IAM - TalentLMS - Instructor,Provides access to TalentLMS
+talentlms_admin,IAM - TalentLMS - Admin,Provides access to TalentLMS
+tableau_viewer,IAM - Tableau - Viewer,Provides access to Tableau
+tableau_site_administrator_explorer,IAM - Tableau - Site Administrator Explorer,Provides access to Tableau
+tableau_site_administrator_creator,IAM - Tableau - Site Administrator Creator,Provides access to Tableau
+tableau_explorer_can_publish,IAM - Tableau - Explorer (Can Publish),Provides access to Tableau
+tableau_explorer,IAM - Tableau - Explorer,Provides access to Tableau
+tableau_creator,IAM - Tableau - Creator,Provides access to Tableau
+surveymonkey_admin,IAM - SurveyMonkey - Admin,Provides access to SurveyMonkey
+surveymonkey,IAM - SurveyMonkey,Provides access to SurveyMonkey
+stripe_view-only,IAM - Stripe - View-Only,Provides access to Stripe - View-Only
+stripe_iam-admin,IAM - Stripe - IAM Admin,Provides access to Stripe - IAM Admin
+stripe_dispute-analyst,IAM - Stripe - Dispute Analyst,Provides access to Stripe - Dispute Analyst
+stripe_analyst,IAM - Stripe - Analyst,Provides access to Stripe - Analyst
+stripe_administrator,IAM - Stripe - Administrator,Provides access to Stripe - Administrator
+smartling_project_manager,IAM - Smartling - Project Manager,Provides access to Smartling
+smartling_account_owner,IAM - Smartling - Account Owner,Provides access to Smartling
+slack_org_users_admin,IAM - Slack - Org Users Admin,Provides access to Slack
+slack_org_roles_admin,IAM - Slack - Org Roles Admin,Provides access to Slack
+slack_org_compliance_admin,IAM - Slack - Org Compliance Admin,Provides access to Slack
+slack_org_channels_admin,IAM - Slack - Org Channels Admin,Provides access to Slack
+slack_ih_users_admin,IAM - Slack - IH Users Admin,Provides access to Slack
+slack_ih_roles_admin,IAM - Slack - IH Roles Admin,Provides access to Slack
+slack_ih_single_channel_guest,IAM - Slack - IH Single-Channel Guest,Provides access to Slack
+slack_ih_multi_channel_guest,IAM - Slack - IH Multi-Channel Guest,Provides access to Slack
+slack_ih_member,IAM - Slack - IH Member,Provides access to Slack
+slack_ih_compliance_admin,IAM - Slack - IH Compliance Admin,Provides access to Slack
+slack_ih_channels_admin,IAM - Slack - IH Channels Admin,Provides access to Slack
+slack_epdd_users_admin,IAM - Slack - EPDD Users Admin,Provides access to Slack
+slack_epdd_roles_admin,IAM - Slack - EPDD Roles Admin,Provides access to Slack
+slack_epdd_member,IAM - Slack - EPDD Member,Provides access to Slack
+slack_dev_eng_users_admin,IAM - Slack - DEV Engineering Users Admin,Provides access to Slack
+slack_epdd_compliance_admin,IAM - Slack - EPDD Compliance Admin,Provides access to Slack
+slack_epdd_channels_admin,IAM - Slack - EPDD Channels Admin,Provides access to Slack
+slack_dev_eng_roles_admin,IAM - Slack - DEV Engineering Roles Admin,Provides access to Slack
+slack_dev_eng_member,IAM - Slack - DEV Engineering Member,Provides access to Slack
+slack_dev_eng_compliance_admin,IAM - Slack - DEV Engineering Compliance Admin,Provides access to Slack
+slack_dev_eng_channels_admin,IAM - Slack - DEV Engineering Channels Admin,Provides access to Slack
+slack_connect_users_admin,IAM - Slack - Connect Users Admin,Provides access to Slack
+slack_connect_roles_admin,IAM - Slack - Connect Roles Admin,Provides access to Slack
+slack_connect_member,IAM - Slack - Connect Member,Provides access to Slack
+slack_connect_compliance_admin,IAM - Slack - Connect Compliance Admin,Provides access to Slack
+slack_connect_channels_admin,IAM - Slack - Connect Channels Admin,Provides access to Slack
+sketch,IAM - Sketch,Provides access to Sketch
+signalfx_member,IAM - SignalFX - Member,Provides access to SignalFX
+signalfx_admin,IAM - SignalFX - Admin,Provides access to SignalFX
+signal_sciences_observer,IAM - Signal Sciences - Observer,Provides access to Signal Sciences
+signal_sciences_owner,IAM - Signal Sciences - Owner,Provides access to Signal Sciences
+signal_sciences_admin,IAM - Signal Sciences - Admin,Provides access to Signal Sciences
+signal_sciences,IAM - Signal Sciences,Provides access to Signal Sciences
+shareworks_admin,IAM - Shareworks - Admin,Provides access to Shareworks
+shareworks,IAM - Shareworks,Provides access to Shareworks
+sentry_admin_nonprod,IAM - Sentry NONPROD - Admin,Provides access to Sentry NONPROD with admin role
+sentry_nonprod,IAM - Sentry NONPROD - Member,Provides access to Sentry NONPROD with member role
+sentry_prod_admin,IAM - Sentry PROD - Admin,Provides access to Sentry PROD with admin role
+sentry_prod,IAM - Sentry PROD - Member,Provides access to Sentry PROD with member role
+sendwithus_reader,IAM - SendWithUs - Reader,Provides access to SendWithUs
+sendwithus_publisher,IAM - SendWithUs - Publisher,Provides access to SendWithUs
+sendwithus_editor,IAM - SendWithUs - Editor,Provides access to SendWithUs
+sendwithus_admin,IAM - SendWithUs - Admin,Provides access to SendWithUs
+sendoso_sender,IAM - Sendoso - Sender,Provides access to Sendoso
+sendoso_manager,IAM - Sendoso - Manager,Provides access to Sendoso
+sendoso_department_admin,IAM - Sendoso - Department Admin,Provides access to Sendoso
+sendoso_admin,IAM - Sendoso - Admin,Provides access to Sendoso
+sendgrid_ldod_restricted_access_custom,IAM - Sendgrid - Restricted Access (Custom),Provides access to Sendgrid
+sendgrid_ldod_read_only_access,IAM - LDOD Sendgrid - Read-Only Access,Provides access to LDOD Sendgrid
+sendgrid_ldod_admin,IAM - LDOD Sendgrid - Admin,Provides access to LDOD Sendgrid
+sendgrid_restricted_access_custom,IAM - Sendgrid - Restricted Access (Custom),Provides access to Sendgrid
+sendgrid_read_only_access,IAM - Sendgrid - Read-Only Access,Provides access to Sendgrid
+sendgrid_admin,IAM - Sendgrid - Admin,Provides access to Sendgrid
+securew2_help_desk,IAM - SecureW2 - Help Desk,Provides access to SecureW2
+securew2_admin,IAM - SecureW2 - Admin,Provides access to SecureW2
+sandbox_five9_uat_salesforce_uat,IAM - Sandbox - Five9 UAT - Salesforce UAT,Provides access to Sandbox - Five9 UAT - Salesforce UAT
+salesforce_sales_cloud_system_administrator,IAM - Salesforce Sales Cloud - System Administrator,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_gr_solutions_engineering_user,IAM - Salesforce Sales Cloud - GR Solutions Engineering User,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_gr_sales_user,IAM - Salesforce Sales Cloud - GR Sales User,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_gr_read_only_user,IAM - Salesforce Sales Cloud - GR Read Only User,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_standard_user,IAM - Salesforce Sales Cloud - Standard User,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_gr_included_health,IAM - Salesforce Sales Cloud - GR Included Health,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_gr_implementations_user,IAM - Salesforce Sales Cloud - GR Implementations User,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_gr_gtm_ops_user,IAM - Salesforce Sales Cloud - GR GTM Ops User,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_gr_finance_user,IAM - Salesforce Sales Cloud - GR Finance User,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_gr_demand_generation_user,IAM - Salesforce Sales Cloud - GR Demand Generation User,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_gr_customer_solutions_user,IAM - Salesforce Sales Cloud - GR Customer Solutions User,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_gr_customer_success_user,IAM - Salesforce Sales Cloud - GR Customer Success User,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_gr_case_management_user,IAM - Salesforce Sales Cloud - GR Case Management User,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_gr_bdr_user,IAM - Salesforce Sales Cloud - GR BDR User,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud_gr_accounting_user,IAM - Salesforce Sales Cloud - GR Accounting User,Provides access to Salesforce Sales Cloud
+salesforce_sales_cloud,IAM - Salesforce.com,Provides access to Salesforce Sales Cloud
+salesforce_marketing_cloud_marketing_cloud_viewer,IAM - Salesforce Marketing Cloud - Marketing Cloud Viewer,Provides access to Salesforce Marketing Cloud
+salesforce_marketing_cloud_marketing_cloud_security_administrator,IAM - Salesforce Marketing Cloud - Marketing Cloud Security Administrator,Provides access to Salesforce Marketing Cloud
+salesforce_marketing_cloud_marketing_cloud_marketing_cloud_channel_manager,IAM - Salesforce Marketing Cloud - Marketing Cloud Marketing Cloud Channel Manager,Provides access to Salesforce Marketing Cloud
+salesforce_marketing_cloud_marketing_cloud_content_editor_publisher,IAM - Salesforce Marketing Cloud - Marketing Cloud Content Editor/Publisher,Provides access to Salesforce Marketing Cloud
+salesforce_marketing_cloud_marketing_cloud_administrator,IAM - Salesforce Marketing Cloud - Marketing Cloud Administrator,Provides access to Salesforce Marketing Cloud
+salesforce_marketing_cloud_distributed_sending_user,IAM - Salesforce Marketing Cloud - Distributed Sending User,Provides access to Salesforce Marketing Cloud
+salesforce_marketing_cloud_data_manager,IAM - Salesforce Marketing Cloud - Data manager,Provides access to Salesforce Marketing Cloud
+salesforce_marketing_cloud_content_creator,IAM - Salesforce Marketing Cloud - Content Creator,Provides access to Salesforce Marketing Cloud
+salesforce_marketing_cloud_analyst,IAM - Salesforce Marketing Cloud - Analyst,Provides access to Salesforce Marketing Cloud
+salesforce_marketing_cloud_administrator,IAM - Salesforce Marketing Cloud - Administrator,Provides access to Salesforce Marketing Cloud
+rxadvance,IAM - RxAdvance,Provides access to RxAdvance
+rollbar,IAM - Rollbar,Provides access to Rollbar
+ringcentral_user_admin,IAM - RingCentral - User Admin,Provides access to RingCentral
+ringcentral_super_admin,IAM - RingCentral - Super Admin,Provides access to RingCentral
+ringcentral_standard_no_prem,IAM - RingCentral - Standard (No Premium),Provides access to RingCentral
+ringcentral_standard_int,IAM - RingCentral - Standard (International),Provides access to RingCentral
+ringcentral_standard_int_wo_prem,IAM - RingCentral - Standard (International without Premium),Provides access to RingCentral
+ringcentral_standard,IAM - RingCentral - Standard,Provides access to RingCentral
+ringcentral_phone_system_admin,IAM - RingCentral - Phone System Admin,Provides access to RingCentral
+ringcentral_manager,IAM - RingCentral - Manager,Provides access to RingCentral
+ringcentral_billing_admin,IAM - RingCentral - Billing Admin,Provides access to RingCentral
+rfpio_project_requester,IAM - RFPIo - Project Requester,Provides access to RFPIo
+rfpio_manager,IAM - RFPIo - Manager,Provides access to RFPIo
+rfpio_admin_with_all_permissions,IAM - RFPIo - Admin with ALL Permissions,Provides access to RFPIo
+rfpio_admin_content_company_project,IAM - RFPIo - Admin - Content Company Project,Provides access to RFPIo
+rfpio_admin_company,IAM - RFPIo - Admin - Company,Provides access to RFPIo
+rfpio_team_member,IAM - RFPIo Team Member,Provides access to RFPIo
+redox_phi,IAM - Redox Engine - PHI Access - MANUAL,Provides access to Redox Engine
+redox_user,IAM - Redox Engine - User - MANUAL,Provides access to Redox Engine
+qualys_unit_manager,IAM - Qualys - Unit Manager,Provides access to Qualys
+qualys_scanner,IAM - Qualys - Scanner,Provides access to Qualys
+qualys_remediation_user,IAM - Qualys - Remediation User,Provides access to Qualys
+qualys_reader,IAM - Qualys - Reader,Provides access to Qualys
+qualys_manager,IAM - Qualys - Manager,Provides access to Qualys
+qualys_contact,IAM - Qualys - Contact,Provides access to Qualys
+qualtrics_standard_qualtrics,IAM - Qualtrics - Standard User,Provides access to Qualtrics
+qualtrics_brand_ambassador,IAM - Qualtrics - Brand Ambassador,Provides access to Qualtrics
+qualtrics_owner,IAM - Qualtrics - Owner,Provides access to Qualtrics
+pusher,IAM - Pusher - User,Provides access to Pusher
+production_ftp,IAM - Production FTP,Provides access to Production FTP
+prisma_access_portal,Prisma Access Portal,Provides access to Global Protect VPN
+prisma_access_gateways,IAM - Prisma Access Gateways,Provides access to Global Protect VPN
+prism,IAM - Prism,Provides access to Prism
+prelude_user,IAM - Prelude - User,Provides access to Prelude
+patientping,IAM - PatientPing,Provides access to PatientPing
+palo_alto_networks_panorama_superuser_read_only,IAM - Palo Alto Networks Panorama - Superuser (read-only),Provides access to Palo Alto Networks Panorama
+palo_alto_networks_panorama_superuser,IAM - Palo Alto Networks Panorama - Superuser,Provides access to Palo Alto Networks Panorama
+palo_alto_networks_panorama_panorama_administrator,IAM - Palo Alto Networks Panorama - Panorama Administrator,Provides access to Palo Alto Networks Panorama
+palo_alto_networks_panorama,IAM - Palo Alto Networks Panorama,Provides access to Palo Alto Networks Panorama
+pagerduty_limited_stakeholder,IAM - PagerDuty - Limited Stakeholder,Provides access to PagerDuty
+pagerduty_stakeholder,IAM - PagerDuty - Stakeholder,Provides access to PagerDuty
+pagerduty_team_responder,IAM - PagerDuty - Team Responder,Provides access to PagerDuty
+pagerduty_restricted_access,IAM - PagerDuty - Restricted Access,Provides access to PagerDuty
+pagerduty_responder,IAM - PagerDuty - Responder,Provides access to PagerDuty
+pagerduty_observer,IAM - PagerDuty - Observer,Provides access to PagerDuty
+pagerduty_manager,IAM - PagerDuty - Manager,Provides access to PagerDuty
+pagerduty_account_owner,IAM - PagerDuty - Account Owner,Provides access to PagerDuty
+pagerduty_global_admin,IAM - PagerDuty - Global Admin,Provides access to PagerDuty
+oreilly_user,IAM - Oreilly - User,Provides access to Oreilly
+orca_viewer,IAM - Orca - Viewer,Provides access to Orca
+orca_editor,IAM - Orca - Editor,Provides access to Orca
+orca_contributor,IAM - Orca - Contributor,Provides access to Orca
+orca_alert_manager,IAM - Orca - Alert Manager,Provides access to Orca
+orca_administrator,IAM - Orca - Administrator,Provides access to Orca
+optinmonster_viewer,IAM - Optinmonster - Viewer,Provides access to Optinmonster
+optinmonster_manager,IAM - Optinmonster - Manager,Provides access to OpsLevel
+optinmonster_author,IAM - Optinmonster - Author,Provides access to OpsLevel
+optinmonster_admin,IAM - Optinmonster - Admin,Provides access to OpsLevel
+opslevel,IAM - OpsLevel,Provides access to OpsLevel
+oomnitza_super_administrator,IAM - Oomnitza - Super Administrator,Provides access to Oomnitza
+oomnitza_read_only_audit,IAM - Oomnitza - Read Only Audit,Provides access to Oomnitza
+oomnitza_product_support,IAM - Oomnitza - Product Support,Provides access to Oomnitza
+oomnitza_contract_owner,IAM - Oomnitza - Contract Owner,Provides access to Oomnitza
+oomnitza_admin,IAM - Oomnitza - Admin,Provides access to Oomnitza
+oomnitza_accounting,IAM - Oomnitza - Accounting,Provides access to Oomnitza
+oomnitza,IAM - Oomnitza,Provides access to Oomnitza
+okta_access_requests_default_assignee,IAM - Okta Access Requests - Default Assignee,Provides access to Okta Access Requests
+okta_access_requests,IAM - Okta Access Requests - User,Provides access to Okta Access Requests
+officespace_software_system_administrator,IAM - OfficeSpace Software - System Administrator,Provides access to OfficeSpace
+officespace_software_safeguard_guest,IAM - OfficeSpace Software - Safeguard Guest,Provides access to OfficeSpace
+officespace_software_report_consumer,IAM - OfficeSpace Software - Report Consumer,Provides access to OfficeSpace
+officespace_software_move_manager,IAM - OfficeSpace Software - Move Manager,Provides access to OfficeSpace
+officespace_software_facility_manager,IAM - OfficeSpace Software - Facility Manager,Provides access to OfficeSpace
+officespace_software_booking_manager,IAM - OfficeSpace Software - Booking Manager,Provides access to OfficeSpace
+officespace_software,IAM - OfficeSpace Software,Provides access to OfficeSpace
+office365,IAM - Office365,Provides access to Microsoft Office 365
+o2o_gr_production_uar,IAM - O2O Grand Rounds Production,Provides insight for Grand Rounds access
+nice_wfm_admin,IAM - NICE WFM - Admin,Provides access to NICE WFM
+nice_wfm,IAM - NICE WFM,Provides access to NICE WFM
+nice_qci_supervisor,IAM - NICE QCI - Supervisor,Provides access to NICE QCI
+nice_qci_quality_admin,IAM - NICE QCI - Quality Admin,Provides access to NICE QCI
+nice_qci,IAM - NICE QCI,Provides access to NICE QCI
+nice_qci_superuser,IAM - NICE QCI - Superuser,Provides access to NICE QCI
+nice_eem_admin,IAM - NICE EEM - Admin,Provides access to NICE EEM
+nice_eem,IAM - NICE EEM,Provides access to NICE EEM
+nice_cxo,IAM - NICE CXOne,Provides access to NICE CXOne
+new_relic_owner,IAM - New Relic - Owner,Provides access to New Relic
+new_relic_admin,IAM - New Relic - Admin,Provides access to New Relic
+new_relic,IAM - New Relic,Provides access to New Relic
+nas_rno,IAM - NAS - RNO,Provides access to NAS (Patient Care Scans)
+nas_pwm,IAM - NAS - PWM,Provides access to NAS (Patient Care Scans)
+nas_admin,IAM - NAS - Admin,Provides access to NAS (Patient Care Scans)
+microsoft_unlicensed,IAM - Microsoft O365 - Unlicensed,Removes Microsoft O365 License
+microsoft_business_premium,IAM - Microsoft O365 - Business Premium,Provides access to Microsoft O365 with Business Premium Licenses
+microsoft_standard_user,IAM - Microsoft O365 - Standard User,Provides access to Microsoft O365
+microsoft_business_standard,IAM - Microsoft O365 - Business Standard,Provides access to Microsoft O365 with Business Standard License
+microsoft_helpdesk_admin,IAM - Microsoft O365 - Helpdesk Admin,Provides access to Microsoft O365
+microsoft_super_admin,IAM - Microsoft O365 - Super Admin,Provides access to Microsoft O365
+mayo_clinic_carelink,IAM - Mayo Clinic CareLink,Provides access to Mayo Clinic CareLink
+marketo_web_designer,IAM - Marketo - Web Designer,Provides access to Marketo
+marketo_marketing_user,IAM - Marketo - Marketing user,Provides access to Marketo
+marketo_ipad_remote_event_access,IAM - Marketo - iPad Remote Event Access,Provides access to Marketo
+marketo_analytics_user,IAM - Marketo - Analytics User,Provides access to Marketo
+marketo_admin,IAM - Marketo - Admin,Provides access to Marketo
+marketo,IAM - Marketo,Provides access to Marketo
+lucidscale_licensed,IAM - Lucidscale - Licensed (Read/Write),Provides access to Lucidscale
+lucidchart_licensed,IAM - Lucidchart - Licensed (Read/Write),Provides access to Lucidchart
+lucidchart_unlicensed,IAM - Lucidchart- View Only,Provides access to Lucidchart
+lucid_teamadmin,IAM - Lucid Team Admin Role,Provides access to Lucid
+lucid_billingadmin,IAM - Lucid Billing Admin Role,Provides access to Lucid
+looker_uat_reduser,IAM - Looker - UAT - RedUser,Provides access to Looker
+looker_uat_reddeveloper,IAM - Looker - UAT - RedDeveloper,Provides access to Looker
+looker_uat_redcataloguser,IAM - Looker - UAT - RedCatalogUser,Provides access to Looker
+looker_uat_redcatalogdeveloper,IAM - Looker - UAT - RedCatalogDeveloper,Provides access to Looker
+looker_dev_reduser,IAM - Looker - Dev - RedUser,Provides access to Looker
+looker_dev_reddeveloper,IAM - Looker - Dev - RedDeveloper,Provides access to Looker
+looker_dev_redcataloguser,IAM - Looker - Dev - RedCatalogUser,Provides access to Looker
+looker_dev_redcatalogdeveloper,IAM - Looker - Dev - RedCatalogDeveloper,Provides access to Looker
+looker_prod_reduser,IAM - Looker - Prod - RedUser,Provides access to Looker
+looker_prod_reddeveloper,IAM - Looker - Prod - RedDeveloper,Provides access to Looker
+looker_prod_redcataloguser,IAM - Looker - Prod - RedCatalogUser,Provides access to Looker
+looker_prod_redcatalogdeveloper,IAM - Looker - Prod - RedCatalogDeveloper,Provides access to Looker
+looker_uat_financedeveloper,IAM - Looker - UAT - FinanceDeveloper,Provides access to Looker
+looker_dev_financedeveloper,IAM - Looker - Dev - FinanceDeveloper,Provides access to Looker
+looker_prod_financedeveloper,IAM - Looker - Prod - FinanceDeveloper,Provides access to Looker
+looker_uat_financeuser,IAM - Looker - UAT - FinanceUser,Provides access to Looker
+looker_dev_financeuser,IAM - Looker - Dev - FinanceUser,Provides access to Looker
+looker_prod_financeuser,IAM - Looker - Prod - FinanceUser,Provides access to Looker
+looker_uat_viewer,IAM - Looker - UAT - Viewer,Provides access to Looker
+looker_dev_viewer,IAM - Looker - Dev - Viewer,Provides access to Looker
+looker_prod_viewer,IAM - Looker - Prod - Viewer,Provides access to Looker
+looker_uat_analyst,IAM - Looker - UAT Analyst,Provides access to Looker
+looker_uat_user,IAM - Looker - UAT - User,Provides access to Looker
+looker_dev_user,IAM - Looker - Dev - User,Provides access to Looker
+looker_prod_user,IAM - Looker - Prod - User,Provides access to Looker
+looker_uat_developer,IAM - Looker - UAT - Developer,Provides access to Looker
+looker_dev_developer,IAM - Looker - Dev - Developer,Provides access to Looker
+looker_prod_developer,IAM - Looker - Prod - Developer,Provides access to Looker
+looker_uat_admin,IAM - Looker - UAT - Admin,Provides access to Looker
+looker_dev_admin,IAM - Looker - Dev - Admin,Provides access to Looker
+looker_prod_admin,IAM - Looker - Prod - Admin,Provides access to Looker
+logstore_uat_us_west,IAM - Logstore - UAT - US West,Provides access to Logstore
+logstore_uat,IAM - Logstore - UAT,Provides access to Logstore
+logstore_production,IAM - Logstore - Production,Provides access to Logstore
+logstore_platform_dev,IAM - Logstore - Platform-Dev,Provides access to Logstore
+logstore_integration3,IAM - Logstore - Integration3,Provides access to Logstore
+lob_read_write,IAM - Lob - Read & Write,Provides access to Lob
+lob_admin,IAM - Lob - Admin,Provides access to Lob
+lob,IAM - Lob,Provides access to Lob
+linksquares_user,IAM - LinkSquares - User,Provides access to LinkSquares
+linksquares_read-only,IAM - LinkSquares - Read-Only,Provides access to LinkSquares
+linksquares_manager,IAM - LinkSquares - Manager,Provides access to LinkSquares
+linksquares_administrator,IAM - LinkSquares - Administrator,Provides access to LinkSquares - Administrator
+linkedin_campaign_manager_viewer,IAM - LinkedIn Campaign Manager - Viewer,Provides access to LinkedIn Campaign Manager
+linkedin_campaign_manager_creative_manager,IAM - LinkedIn Campaign Manager - Creative Manager,Provides access to LinkedIn
+linkedin_campaign_manager_campaign_manager,IAM - LinkedIn Campaign Manager - Campaign Manager,Provides access to LinkedIn
+linkedin_campaign_manager_account_manager,IAM - LinkedIn Campaign Manager - Account Manager,Provides access to LinkedIn
+linkedin_super_admin,IAM - LinkedIn - Super Admin,Provides access to LinkedIn
+linkedin_curator,IAM - LinkedIn - Curator,Provides access to Lever
+linkedin_content_admin,IAM - LinkedIn - Content Admin,Provides access to Lever
+linkedin_analyst,IAM - LinkedIn - Analyst,Provides access to Lever
+lever,IAM - Lever,Provides access to Lever
+learnupon_manager,IAM - LearnUpon - Manager,Provides access to LearnUpon
+learnupon_learner,IAM - LearnUpon - Learner,Provides access to LearnUpon
+learnupon_instructor,IAM - LearnUpon - Instructor,Provides access to LearnUpon
+learnupon_admin,IAM - LearnUpon - Admin,Provides access to LearnUpon
+launchdarkly_writer,IAM - LaunchDarkly - Writer,Provides access to LaunchDarkly
+launchdarkly_vinsol,IAM - LaunchDarkly - Vinsol,Provides access to LaunchDarkly
+launchdarkly_uat_developer,IAM - LaunchDarkly - UAT Developer,Provides access to LaunchDarkly
+launchdarkly_reader,IAM - LaunchDarkly - Reader,Provides access to LaunchDarkly
+launchdarkly_developer,IAM - LaunchDarkly - Developer,Provides access to LaunchDarkly
+launchdarkly_admin,IAM - LaunchDarkly - Admin,Provides access to LaunchDarkly
+lastpass_viva_transcription_access,IAM - Lastpass - Viva Transcription Access,Provides access to LastPass group(s)
+lastpass_umr_upload_download_users,IAM - Lastpass - UMR Upload/Download Users,Provides access to LastPass group(s)
+lastpass_training_team,IAM - Lastpass - Training Team,Provides access to LastPass group(s)
+lastpass_summit_team,IAM - Lastpass - Summit Team,Provides access to LastPass group(s)
+lastpass_stock_admin_read_only,IAM - Lastpass - Stock-Admin - Read Only,Provides access to LastPass group(s)
+lastpass_solutions_engineering,IAM - Lastpass - Solutions Engineering,Provides access to LastPass group(s)
+lastpass_siteground_read_only,IAM - Lastpass - Siteground - Read Only,Provides access to LastPass group(s)
+lastpass_siteground_admin,IAM - Lastpass - Siteground - Admin,Provides access to LastPass group(s)
+lastpass_sfmc_sftp_server_read_only,IAM - Lastpass - SFMC sFTP Server - Read Only,Provides access to LastPass group(s)
+lastpass_senior_records_specialists,IAM - Lastpass - Senior Records Specialists,Provides access to LastPass group(s)
+lastpass_sailpoint_break_glass_admin,IAM - Lastpass - SailPoint Break-Glass Admin,Provides access to LastPass group(s)
+lastpass_records_team_secure_messaging_read_only,IAM - Lastpass - Records Team - Secure Messaging - Read Only,Provides access to LastPass group(s)
+lastpass_research_service_account_read_only,IAM - Lastpass - Research Service Account - Read Only,Provides access to LastPass group(s)
+lastpass_records_specialist_managers,IAM - Lastpass - Records Specialist Managers,Provides access to LastPass group(s)
+lastpass_records_specialist_leads,IAM - Lastpass - Records Specialist Leads,Provides access to LastPass group(s)
+lastpass_records_specialist_2s,IAM - Lastpass - Records Specialist 2s,Provides access to LastPass group(s)
+lastpass_records_administrative_specialists,IAM - Lastpass - Records Administrative Specialists,Provides access to LastPass group(s)
+lastpass_qa,IAM - Lastpass - QA,Provides access to LastPass group(s)
+lastpass_product_support_manager,IAM - Lastpass - Product Support - Manager,Provides access to LastPass group(s)
+lastpass_product_support,IAM - Lastpass - Product Support,Provides access to LastPass group(s)
+lastpass_platform_complexes,IAM - Lastpass - Platform - Complexes,Provides access to LastPass group(s)
+lastpass_pathology,IAM - Lastpass - Pathology,Provides access to LastPass group(s)
+lastpass_pagerduty_service_account_api_access,IAM - Lastpass - PagerDuty Service Account API Access,Provides access to LastPass group(s)
+lastpass_marketing_zoom_access_read_only,IAM - Lastpass - Marketing Zoom Access - Read Only,Provides access to LastPass group(s)
+lastpass_lastpass_api_access,IAM - Lastpass - LastPass API Access,Provides access to LastPass group(s)
+lastpass_kahoot_users,IAM - Lastpass - Kahoot! Users,Provides access to LastPass group(s)
+lastpass_it_team,IAM - Lastpass - IT-Team,Provides access to LastPass group(s)
+lastpass_it_engineering,IAM - Lastpass - IT-Engineering,Provides access to LastPass group(s)
+lastpass_infosec_admin,IAM - Lastpass - InfoSec - Admin,Provides access to LastPass group(s)
+lastpass_hr_admin_read_only,IAM - Lastpass - HR-Admin - Read Only,Provides access to LastPass group(s)
+lastpass_executive_assistants,IAM - Lastpass - Executive Assistants,Provides access to LastPass group(s)
+lastpass_engineering_it_qa_system_creds_read_only,IAM - Lastpass - Engineering/IT QA System Creds - Read Only,Provides access to LastPass group(s)
+lastpass_engineering_it_qa_system_creds_admin,IAM - Lastpass - Engineering/IT QA System Creds - Admin,Provides access to LastPass group(s)
+lastpass_engineering_production,IAM - Lastpass - Engineering - Production,Provides access to LastPass group(s)
+lastpass_engineering_mobile,IAM - Lastpass - Engineering - Mobile,Provides access to LastPass group(s)
+lastpass_engineering_general_read_only,IAM - Lastpass - Engineering - General - Read Only,Provides access to LastPass group(s)
+lastpass_engineering_general,IAM - Lastpass - Engineering - General,Provides access to LastPass group(s)
+lastpass_engineering_ds,IAM - Lastpass - Engineering - DS,Provides access to LastPass group(s)
+lastpass_engineering_dr,IAM - Lastpass - Engineering - DR,Provides access to LastPass group(s)
+lastpass_engineering_control,IAM - Lastpass - Engineering - Control,Provides access to LastPass group(s)
+lastpass_claims,IAM - Lastpass - Claims,Provides access to LastPass group(s)
+lastpass_b2b_gtm,IAM - Lastpass - B2B GTM,Provides access to LastPass group(s)
+lastpass_athenahealth_admin,IAM - Lastpass - Athenahealth - Admin,Provides access to LastPass group(s)
+lastpass_app_store_integration_read_only,IAM - Lastpass - App-Store-Integration - Read Only,Provides access to LastPass group(s)
+lastpass_accounting_admin,IAM - Lastpass - Accounting - Admin,Provides access to LastPass group(s)
+kudos_team_lead,IAM - Kudos - Team Lead,Provides access to Kudos
+kudos_support_team,IAM - Kudos - Support Team,Provides access to Kudos
+kudos_member,IAM - Kudos - Member,Provides access to Kudos
+kudos_manager,IAM - Kudos - Manager,Provides access to Klue
+kudos_care_team_leadership,IAM - Kudos - Care Team Leadership,Provides access to Klue
+keeper_role_user,IAM - Keeper - Role - User,Provides access to Keeper
+keeper_role_tech_support,IAM - Keeper - Role - Tech Support,Provides access to Keeper
+keeper_role_share_user,IAM - Keeper - Role - Share User,Provides access to Keeper
+keeper_role_executive_staff,IAM - Keeper - Role - Executive Staff,Provides access to Keeper
+keeper_role_executive_assistants,IAM - Keeper - Role - Executive Assistants,Provides access to Keeper
+keeper_role_engineering_staff,IAM - Keeper - Role - Engineering Staff,Provides access to Keeper
+keeper_role_engineering_leaders,IAM - Keeper - Role - Engineering Leaders,Provides access to Keeper
+keeper_folder_viva_transcription,IAM - Keeper - Folder - Viva Transcription,Provides access to Keeper
+keeper_folder_secure_messaging_services,IAM - Keeper - Folder - Secure Messaging Services,Provides access to Keeper
+keeper_folder_it_systems_engineering,IAM - Keeper - Folder - IT Systems Engineering,Provides access to Keeper
+keeper_folder_it_support,IAM - Keeper - Folder - IT Support,Provides access to Keeper
+keeper_folder_it_infrastructure_engineering,IAM - Keeper - Folder - IT Infrastructure Engineering,Provides access to Keeper
+keeper_folder_image_services,IAM - Keeper - Folder - Image Services,Provides access to Keeper
+keeper_folder_engineering_general_read,IAM - Keeper - Folder - Engineering - General - Read Only,Provides access to Keeper
+keeper_folder_engineering_general,IAM - Keeper - Folder - Engineering - General,Provides access to Keeper
+keeper_folder_copy_services,IAM - Keeper - Folder - Copy Services,Provides access to Keeper
+keeper_super_admin_role,IAM - Keeper - Super Admin Role,Provides access to Keeper
+keeper_admin_role_security_engineering,IAM - Keeper - Admin Role - Security Engineering,Provides access to Keeper
+keeper_admin_role_it_support,IAM - Keeper - Admin Role - IT Support,Provides access to Keeper
+keeper_admin_role_compliance,IAM - Keeper - Admin Role - Compliance,Provides access to Keeper
+jira_service_desk,IAM - Jira Service Desk,Provides access to Jira Service Desk
+jira,IAM - Jira,Provides access to Jira
+jetbrains_software_webstorm,IAM - JetBrains Software - WebStorm,Provides access to JetBrains Software
+jetbrains_software_rubymine,IAM - JetBrains Software - RubyMine,Provides access to JetBrains Software
+jetbrains_software_pycharm,IAM - JetBrains Software - PyCharm,Provides access to JetBrains Software
+jetbrains_software_intellij_idea_ultimate,IAM - JetBrains Software - IntelliJ IDEA Ultimate,Provides access to JetBrains Software
+jetbrains_software_goland,IAM - JetBrains Software - GoLand,Provides access to JetBrains Software
+jetbrains_software_datagrip,IAM - JetBrains Software - DataGrip,Provides access to JetBrains Software
+jetbrains_software_all_products,IAM - JetBrains Software - All Products,Provides access to JetBrains Software
+jenkins_release,IAM - Jenkins Release,Provides access to Jenkins
+jenkins_developer,IAM - Jenkins Developer,Provides access to Jenkins
+jenkins_admin,IAM - Jenkins Admin,Provides access to Jenkins
+jamf_pro_admin,IAM - Jamf Pro Admin,Provides access to Jamf Pro Admin
+jamf_connect_standard,IAM - Jamf Connect Standard,Provides access to Jamf Connect Standard
+jamf_connect_records_room,IAM - Jamf Connect Records Room,Provides access to Jamf Connect Records Room
+jamf_connect_it_admin,IAM - Jamf Connect IT Admin,Provides access to Jamf Connect IT Admin
+jamf_connect_fixtures,IAM - Jamf Connect Fixtures,Provides access to Jamf Connect Fixtures
+interseller_user,IAM - Interseller - User,Provides access to Interseller
+instapage_viewer,IAM - Instapage - Viewer,Provides access to Instapage
+instapage_manager,IAM - Instapage - Manager,Provides access to Instapage
+instapage_editor,IAM - Instapage - Editor,Provides access to Instapage
+instabug_viewer,IAM - Instabug - Viewer,Provides access to Instabug
+instabug_owner,IAM - Instabug - Owner,Provides access to Instabug
+instabug_member,IAM - Instabug - Member,Provides access to Instabug
+instabug_admin,IAM - Instabug - Admin,Provides access to Instabug
+helpjuice_viewer,IAM - Helpjuice - Viewer,Provides access to Helpjuice
+helpjuice_super_admin,IAM - Helpjuice - Super Admin,Provides access to Helpjuice
+helpjuice_knowledge_enablement,IAM - Helpjuice - Knowledge Enablement Team,Provides access to Helpjuice
+grand_rounds_hub,IAM - Grand Rounds Hub,Provides access to Grand Rounds Hub
+grand_rounds,IAM - Grand Rounds,Provides access to Grand Rounds Production
+grafana,IAM - Grafana,Provides access to Grafana
+google_workspace_vault_admin,IAM - Google Workspace - Vault Admin,Provides access to Google Workspace
+google_workspace_super_admin,IAM - Google Workspace - Super Admin,Provides access to Google Workspace
+google_workspace_security_team_admin,IAM - Google Workspace - Security Team Admin,Provides access to Google Workspace
+google_workspace_product_support_admin,IAM - Google Workspace - Product Support Admin,Provides access to Google Workspace
+google_workspace_meet_hardware_admin,IAM - Google Workspace - Meet Hardware Admin,Provides access to Google Workspace
+google_workspace_legal_team_admin,IAM - Google Workspace - Legal Team Admin,Provides access to Google Workspace
+google_workspace_it_msp_admin,IAM - Google Workspace - IT MSP Admin,Provides access to Google Workspace
+google_workspace_it_admin,IAM - Google Workspace - IT Admin,Provides access to Google Workspace
+google_workspace,IAM - Google Workspace,Provides access to Google Workspace
+google_tag_manager_read,IAM - Google Tag Manager - Read,Provides access to Google Tag Manager
+google_tag_manager_publish,IAM - Google Tag Manager - Publish,Provides access to Google Tag Manager
+google_tag_manager_edit,IAM - Google Tag Manager - Edit,Provides access to Google Tag Manager
+google_tag_manager_approve,IAM - Google Tag Manager - Approve,Provides access to Google Tag Manager
+google_playstore_console,IAM - Google PlayStore Console,Provides access to Google PlayStore Console
+google_drive_athena_emr_archive_content_manager,IAM - Google Drive - Content Manager Role,Provides access to the Athena EMR Archive Google Shared Drive
+google_drive_athena_emr_archive_contributor,IAM - Google Drive - Contributor Role,Provides access to the Athena EMR Archive Google Shared Drive
+google_drive_athena_emr_archive_viewer,IAM - Google Drive - Viewer Role,Provides access to the Athena EMR Archive Google Shared Drive
+google_analytics_read_analyze_gr_site_only,IAM - Google Analytics - Read & Analyze (GR Site Only),Provides access to Google Analytics
+google_analytics_read_analyze,IAM - Google Analytics - Read & Analyze,Provides access to Google Analytics
+google_analytics_manage_users,IAM - Google Analytics - Manage Users,Provides access to Google Analytics
+google_analytics_edit,IAM - Google Analytics - Edit,Provides access to Google Analytics
+google_analytics_collaborate,IAM - Google Analytics - Collaborate,Provides access to Google Analytics
+google_ads_read_only,IAM - Google Ads - Read Only,Provides access to Google Ads
+google_ads_email_only,IAM - Google Ads - Email Only,Provides access to Google Ads
+google_ads_billing,IAM - Google Ads - Billing,Provides access to Google Ads
+google_ads_admin,IAM - Google Ads - Admin,Provides access to Google Ads
+google_ads,IAM - Google Ads,Provides access to Google Ads
+github_it_infra_owner,IAM - Github - IT Infra - Owner,Provides access to Github - IT Infra
+github_it_infra_member,IAM - Github - IT Infra - Member,Provides access to Github - IT Infra
+gcp_big_query_other,IAM - GCP - Big Query - Other,Provides access to Google Cloud Platform - Big Query
+github_owner,IAM - Github - Owner,Provides access to Github
+github_member,IAM - Github - Member,Provides access to Github
+gcp_big_query_national_claims_warehouse,IAM - GCP - Big Query - National Claims Warehouse,Provides access to Google Cloud Platform - Big Query
+gcp_big_query_frankie,IAM - GCP - Big Query - Frankie,Provides access to Google Cloud Platform - Big Query
+floyd_db,IAM - Floyd DB,Provides access to Floyd DB
+fletch_admin,IAM - Fletch - Admin,Provides access to Fletch
+fletch,IAM - Fletch,Provides access to Fletch
+five9_swa,IAM - Five9 SWA,Provides access to Five12
+five9_plus_adapter_for_salesforce,IAM - Five9 Plus Adapter for Salesforce,Provides access to Five11
+five9_reporting,IAM - Five9 - Reporting,Provides access to Five10
+five9,IAM - Five9,Provides access to Five9
+figma_figjam_editor,IAM - Figma and FigJam - Editor,Provides access to Figma and FigJam
+figjam_viewer_restricted,IAM - FigJam - Viewer - Restricted,Provides access to FigJam
+figjam_editor,IAM - FigJam - Editor,Provides access to FigJam
+figma_viewer_restricted,IAM - Figma - Viewer - Restricted,Provides access to Figma
+figma_editor,IAM - Figma - Editor,Provides access to Figma
+figma,IAM - Figma,Provides access to Figma
+fedex_reporting,IAM - FedEx Reporting,Provides access to FedEx
+fedex_admin,IAM - FedEx - Admin,Provides access to FedEx
+fedex,IAM - FedEx,Provides access to FedEx
+expressscripts,IAM - ExpressScripts,Provides access to ExpressScripts
+employee_handbook,IAM - Employee Handbook,Provides access to Employee Handbook
+elevate_security,IAM - Elevate Security,Provides access to Elevate Security
+ehealth,IAM - eHealth,Provides access to eHealth
+dscout_viewer,IAM - dscout - Viewer,Provides access to dscout
+dscout_member,IAM - dscout - Member,Provides access to dscout
+dscout_account_owner,IAM - dscout - Account Owner,Provides access to dscout
+docker,IAM - Docker,Provides access to Docker
+dispatch_health_user,IAM - Dispatch Health - User,Provides user access to Dispatch Health
+dispatch_health_admin,IAM - Dispatch Health - Admin,Provides admin access to Dispatch Health
+cvs_caremark_portal,IAM - CVS/Caremark Portal,Provides access to CVS/Caremark Portal
+cookiepro_whistleblower_manager,IAM - CookiePro - Whistleblower Manager,Provides access to CookiePro
+cookiepro_whistleblower_case_assignee,IAM - CookiePro - Whistleblower Case Assignee,Provides access to CookiePro
+cookiepro_vendor_manager,IAM - CookiePro - Vendor Manager,Provides access to CookiePro
+cookiepro_site_admin,IAM - CookiePro - Site Admin,Provides access to CookiePro
+cookiepro_project_viewer,IAM - CookiePro - Project Viewer,Provides access to CookiePro
+cookiepro_project_respondent,IAM - CookiePro - Project Respondent,Provides access to CookiePro
+cookiepro_project_owner,IAM - CookiePro - Project Owner,Provides access to CookiePro
+cookiepro_program_benchmarking_manager,IAM - CookiePro - Program Benchmarking Manager,Provides access to CookiePro
+cookiepro_privacy_template_author,IAM - CookiePro - Privacy Template Author,Provides access to CookiePro
+cookiepro_privacy_officer,IAM - CookiePro - Privacy Officer,Provides access to CookiePro
+cookiepro_privacy_notice_viewer,IAM - CookiePro - Privacy Notice Viewer,Provides access to CookiePro
+cookiepro_privacy_notice_manager,IAM - CookiePro - Privacy Notice Manager,Provides access to CookiePro
+cookiepro_privacy_notice_author,IAM - CookiePro - Privacy Notice Author,Provides access to CookiePro
+cookiepro_policy_attestation_respondent,IAM - CookiePro - Policy Attestation Respondent,Provides access to CookiePro
+cookiepro_onetrust_agent,IAM - CookiePro - OneTrust Agent,Provides access to CookiePro
+cookiepro_maturity_planning_manager,IAM - CookiePro - Maturity & Planning Manager,Provides access to CookiePro
+cookiepro_it_risk_manager,IAM - CookiePro - IT Risk Manager,Provides access to CookiePro
+cookiepro_invited,IAM - CookiePro - Invited,Provides access to CookiePro
+cookiepro_incidents_manager,IAM - CookiePro - Incidents Manager,Provides access to CookiePro
+cookiepro_enterprise_policy_manager,IAM - CookiePro - Enterprise Policy Manager,Provides access to CookiePro
+cookiepro_data_subject_requests_manager,IAM - CookiePro - Data Subject Requests Manager,Provides access to CookiePro
+cookiepro_data_mapping_manager,IAM - CookiePro - Data Mapping Manager,Provides access to CookiePro
+cookiepro_cookie_manager,IAM - CookiePro - Cookie Manager,Provides access to CookiePro
+cookiepro_consent_manager,IAM - CookiePro - Consent Manager,Provides access to CookiePro
+cookiepro_awareness_training_learner,IAM - CookiePro - Awareness Training Learner,Provides access to CookiePro
+cookiepro_awareness_training_manager,IAM - CookiePro - Awareness Training Manager,Provides access to CookiePro
+cookiepro_auditor,IAM - CookiePro - Auditor,Provides access to CookiePro
+cookiepro_assessments_manager,IAM - CookiePro - Assessments Manager,Provides access to CookiePro
+cookiepro_audit_manager,IAM - CookiePro - Audit Manager,Provides access to CookiePro
+contentful_owner,IAM - Contentful - Owner,Provides access to Contentful
+contentful_member,IAM - Contentful - Member,Provides access to Contentful
+contentful_developer,IAM - Contentful - Developer,Provides access to Contentful
+contentful_admin,IAM - Contentful - Admin,Provides access to Contentful
+concord_fax,IAM - Concord Fax,Provides access to Concord Fax
+concur_users,IAM - Concur Users,Provides access to SAP Concur
+code_climate,IAM - Code Climate,Provides access to Code Climate
+clientsuccess_manager,IAM - ClientSuccess - Manager,Provides access to ClientSuccess
+clientsuccess_executive,IAM - ClientSuccess - Executive,Provides access to ClientSuccess
+clientsuccess_admin,IAM - ClientSuccess - Admin,Provides access to ClientSuccess
+clientsuccess,IAM - ClientSuccess,Provides access to ClientSuccess
+cleartriage,IAM - ClearTriage,Provides access to ClearTriage
+cleanweb_design_subscriber,IAM - CleanWeb Design - Subscriber,Provides access to CleanWeb Design
+cleanweb_design_seo_manager,IAM - CleanWeb Design - SEO Manager,Provides access to CleanWeb Design
+cleanweb_design_seo_editor,IAM - CleanWeb Design - SEO Editor,Provides access to CleanWeb Design
+cleanweb_design_editor,IAM - CleanWeb Design - Editor,Provides access to CleanWeb Design
+cleanweb_design_contributor,IAM - CleanWeb Design - Contributor,Provides access to CleanWeb Design
+cleanweb_design_author,IAM - CleanWeb Design - Author,Provides access to CleanWeb Design
+cleanweb_design_administrator,IAM - CleanWeb Design - Administrator,Provides access to CleanWeb Design
+carbon_black_system_admin,IAM - Carbon Black - System Admin,Provides access to Carbon Black
+carbon_black_super_admin,IAM - Carbon Black - Super Admin,Provides access to Carbon Black
+carbon_black_live_response_admin_legacy,IAM - Carbon Black - Live Response Admin - Legacy,Provides access to Carbon Black
+carbon_black_limited_admin,IAM - Carbon Black - Limited Admin,Provides access to Carbon Black
+carbon_black_admin_legacy,IAM - Carbon Black - Admin - Legacy,Provides access to Carbon Black
+carbon_black,IAM - Carbon Black,Provides access to Carbon Black
+calendly_admin,IAM - Calendly - Admin,Provides access to Calendly
+calendly,IAM - Calendly,Provides access to Calendly
+bugcrowd_viewer,IAM - bugcrowd - Viewer,Provides access to bugcrowd
+bugcrowd_owner,IAM - bugcrowd - Owner,Provides access to bugcrowd
+bugcrowd_analyst,IAM - bugcrowd - Analyst,Provides access to bugcrowd
+bugcrowd_admin,IAM - bugcrowd - Admin,Provides access to bugcrowd
+brivo_admin,IAM - Brivo Admin,Provides access to Brivo Admin
+box_user,IAM - Box - User,Provides access to Box
+box_admin,IAM - Box - Admin,Provides access to Box
+box_coadmin,IAM - Box - Coadmin,Provides access to Box
+basecamp,IAM - BaseCamp,Provides access to BaseCamp
+aws_operations_cost-modeler,IAM - AWS - Operations - Cost Modeler,Provides access to AWS - Operations
+aws_production_cost-modeler,IAM - AWS - Production - Cost Modeler,Provides access to AWS - Production
+aws_uat_cost-modeler,IAM - AWS - UAT - Cost Modeler,Provides access to AWS - UAT
+aws_integration3_cost-modeler,IAM - AWS - Integration3 - Cost Modeler,Provides access to AWS - Integration3
+aws_vendor_poc_security_auditor,IAM - AWS - Vendor-POC - Security Auditor,Provides access to AWS - Vendor-POC
+aws_vendor_poc_read_only,IAM - AWS - Vendor-POC - Read-Only,Provides access to AWS - Vendor-POC
+aws_vendor_poc_provisioner,IAM - AWS - Vendor-POC - Provisioner,Provides access to AWS - Vendor-POC
+aws_vendor_poc_platform,IAM - AWS - Vendor-POC - Platform,Provides access to AWS - Vendor-POC
+aws_vendor_poc_infosec,IAM - AWS - Vendor-POC - InfoSec,Provides access to AWS - Vendor-POC
+aws_uat_solutions,IAM - AWS - UAT - Solutions,Provides access to AWS - UAT
+aws_uat_security_auditor,IAM - AWS - UAT - Security Auditor,Provides access to AWS - UAT
+aws_uat_read_only,IAM - AWS - UAT - Read-Only,Provides access to AWS - UAT
+aws_uat_provisioner,IAM - AWS - UAT - Provisioner,Provides access to AWS - UAT
+aws_uat_platform,IAM - AWS - UAT - Platform,Provides access to AWS - UAT
+aws_uat_marley_service,IAM - AWS - UAT - Marley Service,Provides access to AWS - UAT
+aws_uat_infosec,IAM - AWS - UAT - InfoSec,Provides access to AWS - UAT
+aws_uat_enduser_yellow,IAM - AWS - UAT - EndUser Yellow,Provides access to AWS - UAT
+aws_uat_enduser_finance,IAM - AWS - UAT - EndUser Finance,Provides access to AWS - UAT
+aws_uat_offshore-platform,IAM - AWS - UAT - Offshore-Platform,Provides access to AWS - UAT
+aws_uat_developer,IAM - AWS - UAT - Developer,Provides access to AWS - UAT
+aws_uat_dev,IAM - AWS - UAT - Dev,Provides access to AWS - UAT
+aws_third_party_security_auditor,IAM - AWS - Third-Party - Security Auditor,Provides access to AWS - Third-Party
+aws_third_party_read_only,IAM - AWS - Third-Party - Read-Only,Provides access to AWS - Third-Party
+aws_third_party_provisioner,IAM - AWS - Third-Party - Provisioner,Provides access to AWS - Third-Party
+aws_third_party_platform,IAM - AWS - Third-Party - Platform,Provides access to AWS - Third-Party
+aws_third_party_infosec,IAM - AWS - Third-Party - InfoSec,Provides access to AWS - Third-Party
+aws_orca_infosec,IAM - AWS - Orca - InfoSec,Provides access to AWS - Orca
+aws_orca_platform,IAM - AWS - Orca - Platform,Provides access to AWS - Orca
+aws_trufflehog_infosec,IAM - AWS - Trufflehog - InfoSec,Provides access to AWS - Trufflehog
+aws_trufflehog_platform,IAM - AWS - Trufflehog - Platform,Provides access to AWS - Trufflehog
+aws_test_security_auditor,IAM - AWS - Test - Security Auditor,Provides access to AWS - Test
+aws_test_read_only,IAM - AWS - Test - Read-Only,Provides access to AWS - Test
+aws_test_provisioner,IAM - AWS - Test - Provisioner,Provides access to AWS - Test
+aws_test_platform,IAM - AWS - Test - Platform,Provides access to AWS - Test
+aws_test_infosec,IAM - AWS - Test - InfoSec,Provides access to AWS - Test
+aws_qa_security_auditor,IAM - AWS - QA - Security Auditor,Provides access to AWS - QA
+aws_qa_read_only,IAM - AWS - QA - Read-Only,Provides access to AWS - QA
+aws_qa_provisioner,IAM - AWS - QA - Provisioner,Provides access to AWS - QA
+aws_qa_platform,IAM - AWS - QA - Platform,Provides access to AWS - QA
+aws_qa_marley_service,IAM - AWS - QA - Marley Service,Provides access to AWS - QA
+aws_qa_infosec,IAM - AWS - QA - InfoSec,Provides access to AWS - QA
+aws_qa_developer,IAM - AWS - QA - Developer,Provides access to AWS - QA
+aws_uat_enduser_red,IAM - AWS - UAT - EndUser Red,Provides access to AWS - UAT
+aws_production_enduser_red,IAM - AWS - Production - EndUser Red,Provides access to AWS - Production
+aws_production_solutions,IAM - AWS - Production - Solutions,Provides access to AWS - Production
+aws_production_security_auditor,IAM - AWS - Production - Security Auditor,Provides access to AWS - Production
+aws_production_read_five9_call_backups,IAM - AWS - Production - Read Five9 Call Backups,Provides access to AWS - Production
+aws_production_read_only,IAM - AWS - Production - Read-Only,Provides access to AWS - Production
+aws_production_provisioner,IAM - AWS - Production - Provisioner,Provides access to AWS - Production
+aws_production_platform,IAM - AWS - Production - Platform,Provides access to AWS - Production
+aws_production_infosec,IAM - AWS - Production - InfoSec,Provides access to AWS - Production
+aws_production_enduser_yellow,IAM - AWS - Production - EndUser Yellow,Provides access to AWS - Production
+aws_production_enduser_finance,IAM - AWS - Production - EndUser Finance,Provides access to AWS - Production
+aws_production_developer,IAM - AWS - Production - Developer,Provides access to AWS - Production
+aws_production_dev,IAM - AWS - Production - Dev,Provides access to AWS - Production
+aws_platform_dev_security_auditor,IAM - AWS - Platform-Dev - Security Auditor,Provides access to AWS - Platform-Dev
+aws_platform_dev_read_only,IAM - AWS - Platform-Dev - Read-Only,Provides access to AWS - Platform-Dev
+aws_platform_dev_provisioner,IAM - AWS - Platform-Dev - Provisioner,Provides access to AWS - Platform-Dev
+aws_platform_dev_platform,IAM - AWS - Platform-Dev - Platform,Provides access to AWS - Platform-Dev
+aws_platform_dev_infosec,IAM - AWS - Platform-Dev - InfoSec,Provides access to AWS - Platform-Dev
+aws_platform_dev_developer,IAM - AWS - Platform-Dev - Developer,Provides access to AWS - Platform-Dev
+aws_operations_security_auditor,IAM - AWS - Operations - Security Auditor,Provides access to AWS - Operations
+aws_operations_sso_admin,IAM - AWS - Operations - SSO Admin,Provides access to AWS - Operations
+aws_operations_read_only,IAM - AWS - Operations - Read-Only,Provides access to AWS - Operations
+aws_operations_provisioner,IAM - AWS - Operations - Provisioner,Provides access to AWS - Operations
+aws_operations_platform,IAM - AWS - Operations - Platform,Provides access to AWS - Operations
+aws_operations_infosec,IAM - AWS - Operations - InfoSec,Provides access to AWS - Operations
+aws_operations_finance_billing,IAM - AWS - Operations - Finance Billing,Provides access to AWS - Operations
+aws_operations_developer,IAM - AWS - Operations - Developer,Provides access to AWS - Operations
+aws_operations_dev,IAM - AWS - Operations - Dev,Provides access to AWS - Operations
+aws_operations_billing_read_only,IAM - AWS - Operations - Billing Read-Only,Provides access to AWS - Operations
+aws_meta_role_solutions,IAM - AWS - Meta-Role - Solutions,Grants access to relevant roles across all AWS accounts
+aws_meta_role_developer_production,IAM - AWS - Meta-Role - Developer-Production,Grants access to relevant roles across all AWS accounts
+aws_meta_role_developer_platform_infra,IAM - AWS - Meta-Role - Developer-Platform-Infra,Grants access to relevant roles across all AWS accounts
+aws_meta_role_developer_platform_infrastructure,IAM - AWS - Meta-Role - Developer-Platform-Infrastructure,Grants access to relevant roles across all AWS accounts
+aws_meta_role_developer_platform_cadet,IAM - AWS - Meta-Role - Developer-Platform-Cadet,Grants access to relevant roles across all AWS accounts
+aws_meta_role_developer_default,IAM - AWS - Meta-Role - Developer-Default,Grants access to relevant roles across all AWS accounts
+aws_meta_role_data_science_prod,IAM - AWS - Meta-Role - Data-Science-Prod,Grants access to relevant roles across all AWS accounts
+aws_meta_role_data_science,IAM - AWS - Meta-Role - Data-Science,Grants access to relevant roles across all AWS accounts
+aws_match_engine_uat_security_auditor,IAM - AWS - Match-Engine-UAT - Security Auditor,Provides access to AWS - Match-Engine-UAT
+aws_match_engine_uat_read_only,IAM - AWS - Match-Engine-UAT - Read-Only,Provides access to AWS - Match-Engine-UAT
+aws_match_engine_uat_provisioner,IAM - AWS - Match-Engine-UAT - Provisioner,Provides access to AWS - Match-Engine-UAT
+aws_match_engine_uat_platform,IAM - AWS - Match-Engine-UAT - Platform,Provides access to AWS - Match-Engine-UAT
+aws_match_engine_uat_infosec,IAM - AWS - Match-Engine-UAT - InfoSec,Provides access to AWS - Match-Engine-UAT
+aws_match_engine_uat_developer,IAM - AWS - Match-Engine-UAT - Developer,Provides access to AWS - Match-Engine-UAT
+aws_match_engine_uat_dev,IAM - AWS - Match-Engine-UAT - Dev,Provides access to AWS - Match-Engine-UAT
+aws_match_engine_production_security_auditor,IAM - AWS - Match-Engine-Production - Security Auditor,Provides access to AWS - Match-Engine-Production
+aws_match_engine_production_read_only,IAM - AWS - Match-Engine-Production - Read-Only,Provides access to AWS - Match-Engine-Production
+aws_match_engine_production_provisioner,IAM - AWS - Match-Engine-Production - Provisioner,Provides access to AWS - Match-Engine-Production
+aws_match_engine_production_platform,IAM - AWS - Match-Engine-Production - Platform,Provides access to AWS - Match-Engine-Production
+aws_match_engine_production_infosec,IAM - AWS - Match-Engine-Production - InfoSec,Provides access to AWS - Match-Engine-Production
+aws_match_engine_production_developer,IAM - AWS - Match-Engine-Production - Developer,Provides access to AWS - Match-Engine-Production
+aws_match_engine_production_dev,IAM - AWS - Match-Engine-Production - Dev,Provides access to AWS - Match-Engine-Production
+aws_integration3_offshore-platform,IAM - AWS - Integration3 - Offshore-Platform,Provides access to AWS - Integration3
+aws_integration3_security_auditor,IAM - AWS - Integration3 - Security Auditor,Provides access to AWS - Integration3
+aws_integration3_read_only,IAM - AWS - Integration3 - Read-Only,Provides access to AWS - Integration3
+aws_integration3_provisioner,IAM - AWS - Integration3 - Provisioner,Provides access to AWS - Integration3
+aws_integration3_platform,IAM - AWS - Integration3 - Platform,Provides access to AWS - Integration3
+aws_integration3_infosec,IAM - AWS - Integration3 - InfoSec,Provides access to AWS - Integration3
+aws_integration3_developer,IAM - AWS - Integration3 - Developer,Provides access to AWS - Integration3
+aws_integration3_dev,IAM - AWS - Integration3 - Dev,Provides access to AWS - Integration3
+aws_hq_security_auditor,IAM - AWS - HQ - Security Auditor,Provides access to AWS - HQ
+aws_hq_read_only,IAM - AWS - HQ - Read-Only,Provides access to AWS - HQ
+aws_hq_provisioner,IAM - AWS - HQ - Provisioner,Provides access to AWS - HQ
+aws_hq_prod_support_team,IAM - AWS - HQ - Prod Support Team,Provides access to AWS - HQ
+aws_hq_platform,IAM - AWS - HQ - Platform,Provides access to AWS - HQ
+aws_hq_it_msp_team,IAM - AWS - HQ - IT MSP Team,Provides access to AWS - HQ
+aws_hq_it_team,IAM - AWS - HQ - IT Team,Provides access to AWS - HQ
+aws_hq_it_admin,IAM - AWS - HQ - IT Admin,Provides access to AWS - HQ
+aws_hq_infosec,IAM - AWS - HQ - InfoSec,Provides access to AWS - HQ
+aws_development_solutions,IAM - AWS - Development - Solutions,Provides access to AWS - Development
+aws_development_security_auditor,IAM - AWS - Development - Security Auditor,Provides access to AWS - Development
+aws_development_read_only,IAM - AWS - Development - Read-Only,Provides access to AWS - Development
+aws_development_provisioner,IAM - AWS - Development - Provisioner,Provides access to AWS - Development
+aws_development_platform,IAM - AWS - Development - Platform,Provides access to AWS - Development
+aws_development_marley_service,IAM - AWS - Development - Marley Service,Provides access to AWS - Development
+aws_development_infosec,IAM - AWS - Development - InfoSec,Provides access to AWS - Development
+aws_development_developer,IAM - AWS - Development - Developer,Provides access to AWS - Development
+aws_development_dev,IAM - AWS - Development - Dev,Provides access to AWS - Development
+aws_ci_security_auditor,IAM - AWS - CI - Security Auditor,Provides access to AWS - CI
+aws_ci_read_only,IAM - AWS - CI - Read-Only,Provides access to AWS - CI
+aws_ci_provisioner,IAM - AWS - CI - Provisioner,Provides access to AWS - CI
+aws_ci_platform,IAM - AWS - CI - Platform,Provides access to AWS - CI
+aws_ci_marley_service,IAM - AWS - CI - Marley Service,Provides access to AWS - CI
+aws_ci_infosec,IAM - AWS - CI - InfoSec,Provides access to AWS - CI
+aws_ci_developer,IAM - AWS - CI - Developer,Provides access to AWS - CI
+aws_ci_dev,IAM - AWS - CI - Dev,Provides access to AWS - CI
+aws_analytics_uat_solutions,IAM - AWS - Analytics-UAT - Solutions,Provides access to AWS - Analytics-UAT
+aws_analytics_uat_security_auditor,IAM - AWS - Analytics-UAT - Security Auditor,Provides access to AWS - Analytics-UAT
+aws_analytics_uat_read_only,IAM - AWS - Analytics-UAT - Read-Only,Provides access to AWS - Analytics-UAT
+aws_analytics_uat_provisioner,IAM - AWS - Analytics-UAT - Provisioner,Provides access to AWS - Analytics-UAT
+aws_analytics_uat_platform,IAM - AWS - Analytics-UAT - Platform,Provides access to AWS - Analytics-UAT
+aws_analytics_uat_infosec,IAM - AWS - Analytics-UAT - InfoSec,Provides access to AWS - Analytics-UAT
+aws_analytics_uat_developer,IAM - AWS - Analytics-UAT - Developer,Provides access to AWS - Analytics-UAT
+aws_analytics-uat_dev,IAM - AWS - Analytics-UAT - Dev,Provides access to AWS - Analytics
+aws_analytics_uat_bronze_claims_orchestrator_redshift,IAM - AWS - Analytics-UAT - Bronze Claims Orchestrator Redshift,Provides access to AWS - Analytics-UAT
+aws_analytics_uat_athena,IAM - AWS - Analytics-UAT - Athena,Provides access to AWS - Analytics-UAT
+aws_analytics_production_solutions,IAM - AWS - Analytics-Production - Solutions,Provides access to AWS - Analytics-Production
+aws_analytics_production_security_auditor,IAM - AWS - Analytics-Production - Security Auditor,Provides access to AWS - Analytics-Production
+aws_analytics_production_read_only,IAM - AWS - Analytics-Production - Read-Only,Provides access to AWS - Analytics-Production
+aws_analytics_production_provisioner,IAM - AWS - Analytics-Production - Provisioner,Provides access to AWS - Analytics-Production
+aws_analytics_production_platform,IAM - AWS - Analytics-Production - Platform,Provides access to AWS - Analytics-Production
+aws_analytics_production_infosec,IAM - AWS - Analytics-Production - InfoSec,Provides access to AWS - Analytics-Production
+aws_analytics-production_dev,IAM - AWS - Analytics-Production - Dev,Provides access to AWS - Analytics
+aws_analytics_production_developer,IAM - AWS - Analytics-Production - Developer,Provides access to AWS - Analytics-Production
+aws_analytics_dev_security_auditor,IAM - AWS - Analytics-Dev - Security Auditor,Provides access to AWS - Analytics-Dev
+aws_analytics_production_bronze_claims_orchestrator_redshift,IAM - AWS - Analytics-Production - Bronze Claims Orchestrator Redshift,Provides access to AWS - Analytics-Production
+aws_analytics_production_athena,IAM - AWS - Analytics-Production - Athena,Provides access to AWS - Analytics-Production
+aws_analytics_dev_read_only,IAM - AWS - Analytics-Dev - Read-Only,Provides access to AWS - Analytics-Dev
+aws_analytics_dev_provisioner,IAM - AWS - Analytics-Dev - Provisioner,Provides access to AWS - Analytics-Dev
+aws_analytics_dev_platform,IAM - AWS - Analytics-Dev - Platform,Provides access to AWS - Analytics-Dev
+aws_analytics_dev_infosec,IAM - AWS - Analytics-Dev - InfoSec,Provides access to AWS - Analytics-Dev
+aws_analytics-dev_dev,IAM - AWS - Analytics-Dev - Dev,Provides access to AWS - Analytics
+aws_analytics_dev_developer,IAM - AWS - Analytics-Dev - Developer,Provides access to AWS - Analytics-Dev
+aws_analytics_dev_bronze_claims_orchestrator_redshift,IAM - AWS - Analytics-Dev - Bronze Claims Orchestrator Redshift,Provides access to AWS - Analytics-Dev
+aws_analytics_dev_athena,IAM - AWS - Analytics-Dev - Athena,Provides access to AWS - Analytics-Dev
+aws_analytics_security_auditor,IAM - AWS - Analytics - Security Auditor,Provides access to AWS - Analytics
+aws_analytics_read_only,IAM - AWS - Analytics - Read-Only,Provides access to AWS - Analytics
+aws_analytics_provisioner,IAM - AWS - Analytics - Provisioner,Provides access to AWS - Analytics
+aws_analytics_platform,IAM - AWS - Analytics - Platform,Provides access to AWS - Analytics
+aws_analytics_infosec,IAM - AWS - Analytics - InfoSec,Provides access to AWS - Analytics
+aws_analytics_dev,IAM - AWS - Analytics - Dev,Provides access to AWS - Analytics
+aws_analytics_developer,IAM - AWS - Analytics - Developer,Provides access to AWS - Analytics
+availity,IAM - Availity,Provides access to Availity
+auth0_prod,IAM - Auth0-Prod,Provides access to Auth0
+auditboard_user,IAM - Auditboard - User,Provides access to Auditboard
+atlassian_jsm_user,IAM - Atlassian - Jira Service Management - User,Provides access to Atlassian Jira Service Management
+atlassian_jira_user,IAM - Atlassian - Jira - User,Provides access to Atlassian Jira
+atlassian_confluence_user,IAM - Atlassian - Confluence - User,Provides access to Atlassian Confluence
+athenahealth_production,IAM - athenahealth - production,Provides access to Athenahealth - Preview
+athenahealth_preview,IAM - athenahealth - preview,Provides access to Athenahealth - Preview
+athenahealth_clienttrain,IAM - athenahealth - clienttrain,Provides access to AthenaHealth
+asana_admin,IAM - Asana - Admin,Provides access to Asana
+asana,IAM - Asana,Provides access to Asana
+aruba_read_only,IAM - Aruba - Read Only,Provides access to Aruba
+aruba_admin,IAM - Aruba - Admin,Provides access to Aruba
+articulate360_user,IAM - Articulate 360 - User,Provides access to Articulate 360
+apple_developer_account_marketing,IAM - Apple Developer Account - Marketing,Provides access to Apple Developer
+apple_developer_account_finance,IAM - Apple Developer Account - Finance,Provides access to Apple Developer
+apple_developer_account_developer,IAM - Apple Developer Account - Developer,Provides access to Apple Developer
+apple_developer_account_customer_support,IAM - Apple Developer Account - Customer Support,Provides access to Apple Developer
+apple_developer_account_app_manager,IAM - Apple Developer Account - App Manager,Provides access to Apple Developer
+apple_developer_account_admin,IAM - Apple Developer Account - Admin,Provides access to Apple Developer
+apple_developer_account_access_to_reports,IAM - Apple Developer Account - Access to Reports,Provides access to Apple Developer
+apiiro_security_engineer,IAM - Apiiro - Security Engineer,Provides access to Apiiro
+apiiro_admin,IAM - Apiiro - Admin,Provides access to Apiiro
+anomalo_production_viewer,IAM - Anomalo - Production - Viewer,Provides access to Anomalo - Viewer
+anomalo_production_editor,IAM - Anomalo - Production - Editor,Provides access to Anomalo - Editor
+anomalo_production_admin,IAM - Anomalo - Production - Admin,Provides access to Anomalo - Production
+anomalo_uat_admin,IAM - Anomalo - UAT - Admin,Provides access to Anomalo - UAT
+anaplan_vp_fpa,IAM - Anaplan - VP FP&A,Provides access to Anaplan
+anaplan_sales_ops,IAM - Anaplan - Sales Ops,Provides access to Amplitude
+anaplan_recruiting_ops,IAM - Anaplan - Recruiting Ops,Provides access to Amplitude
+anaplan_recruiting,IAM - Anaplan - Recruiting,Provides access to Amplitude
+anaplan_fpa_revenue,IAM - Anaplan - FP&A Revenue,Provides access to Amplitude
+anaplan_fpa_opex,IAM - Anaplan - FP&A OpEx,Provides access to Amplitude
+anaplan_fpa_cor,IAM - Anaplan - FP&A COR,Provides access to Amplitude
+anaplan_demand_planning,IAM - Anaplan - Demand Planning,Provides access to Amplitude
+anaplan_cc_owner,IAM - Anaplan - CC Owner,Provides access to Amplitude
+amplitude_viewer,IAM - Amplitude - Viewer,Provides access to Amplitude
+anaplan_accounting,IAM - Anaplan - Accounting,Provides access to Amplitude
+amplitude_member,IAM - Amplitude - Member,Provides access to Amplitude
+amplitude_manager,IAM - Amplitude - Manager,Provides access to Amplitude
+amplitude_admin,IAM - Amplitude - Admin,Provides access to Amplitude
+ambra_dicom_grid_record_specialist_manager,IAM - Ambra Dicom Grid - Record Specialist Manager,Provides access to Ambra Dicom Grid
+ambra_dicom_grid_record_specialist_2,IAM - Ambra Dicom Grid - Record Specialist 2,Provides access to Ambra Dicom Grid
+ambra_dicom_grid_record_specialist,IAM - Ambra Dicom Grid - Record Specialist,Provides access to Ambra Dicom Grid
+ambra_dicom_grid_connected_care_program,IAM - Ambra Dicom Grid - Connected Care Program,Provides access to Ambra Dicom Grid
+ambra_dicom_grid_care_coordinator_opinion_coordinator,IAM - Ambra Dicom Grid - Care Coordinator/Opinion Coordinator,Provides access to Ambra Dicom Grid
+ambra_dicom_grid_adminstrator,IAM - Ambra Dicom Grid - Adminstrator,Provides access to Ambra Dicom Grid
+amazon_business_users,IAM - Amazon Business Users, Provides access to Amazon Business
+ambra_dicom_grid,IAM - Ambra (DICOM),Provides access to Ambra Dicom Grid
+amazon_auto-stop_workspaces_oregon,IAM - Amazon Auto-Stop WorkSpaces - Oregon,Provides access to Amazon WorkSpaces
+amazon_auto-stop_workspaces_virginia,IAM - Amazon Auto-Stop WorkSpaces - Virginia,Provides access to Amazon WorkSpaces
+amazon_workspaces_oregon,IAM - Amazon WorkSpaces - Oregon,Provides access to Amazon WorkSpaces
+amazon_workspaces_virginia,IAM - Amazon WorkSpaces - Virginia,Provides access to Amazon WorkSpaces
+airtable_user,IAM - Airtable - User,Provides access to AirTable
+aetna_strategic_desktop,IAM - Aetna Strategic Desktop,Provides access to Aetna Strategic Desktop
+aerohive,IAM - Aerohive,Provides access to Aerohive
+adobe_administrator,IAM - Adobe - Administrator,Provides access to Adobe
+adobe_user,IAM - Adobe - User,Provides access to Adobe
+adobe_sign,IAM - Adobe Sign,Provides access to Adobe Sign
+adobe_creative_cloud_all_apps_pro,IAM - Adobe - Creative Cloud All Apps - Pro Edition,Provides access to Adobe Creative Cloud
+adobe_captivate,IAM - Adobe - Captivate,Provides access to Adobe Creative Cloud
+adobe_acrobat_pro,IAM - Adobe - Acrobat Pro,Provides access to Adobe Creative Cloud
+abnormal_security_portal_tenant_per_product_admin,IAM - Abnormal Security - Portal Tenant Per-Product Admin,Provides access to Abnormal Security
+abnormal_security_portal_tenant_admin,IAM - Abnormal Security - Portal Tenant Admin,Provides access to Abnormal Security
+abnormal_security_portal_global_per_product_admin,IAM - Abnormal Security - Portal Global Per-Product Admin,Provides access to Abnormal Security
+abnormal_security_portal_global_admin,IAM - Abnormal Security - Portal Global Admin,Provides access to Abnormal Security
+abnormal_security,IAM - Abnormal Security,Provides access to Abnormal Security
+okta_sign_on_allow_mobile_access,IAM - Sign On - Allow Mobile Device Access,Grants exemptions from sign on policy restricting access from mobile devices
+okta_jamf_webauthn_exception,IAM - WebAuthn Exception,Grants exception to exempt an admin from requiring WebAuthn as a factor
+okta_jamf_yubikey_exception,IAM - Jamf Yubikey Exception,Grants exception to allow Yubikey OTP as a factor for Jamf connect
+okta_device_trust_enforced,IAM - Device Trust - Enterprise,Enforces Enterprise Device Trust for users
+okta_device_trust_exempt_from_management,IAM - Device Trust - Exempt from Device Management,Grants exemption from device management for access to sensitive systems
+okta_onboarding_username_generation_in_progress,IAM - Okta Onboarding - Username Generation in Progress,DANGER - DO NOT EDIT - Part of onboarding automation!
+okta_onboarding_username_confirmed,IAM - Okta Onboarding - Username Confirmed,DANGER - DO NOT EDIT - Required for ALL inherited access!
