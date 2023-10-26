@@ -1,5 +1,4 @@
 local_id,group_name,group_description
-coca_cola_classic_-_test,IAM - Coca Cola Classic - Test,"Lorem ipsum, or lipsum as it is sometimes known, is dummy text."
 sg_restrict_meet_recording,SG - Restrict Google Meet Recording,Restricts access to record Google Meets
 sg_limited_access_term,SG - Limited Access Terminations,"Flexible group, used to restrict access to limited applictions for unique terminations"
 sg_int_access_restrictions_mail_drive,SG - International Access - Restrictions - Mail and Drive Exception,Restricts all access defined in security polices when traveling internationally except mail and drive
