@@ -2,7 +2,7 @@
  required_providers {
  okta = {
  source = "okta/okta"
- version = ""
+ version = "4.9.1"
  }
  }
  backend "remote" {
